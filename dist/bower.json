@@ -1,0 +1,24 @@
+{
+  "name": "wemoji-assets",
+  "main": "index.js",
+  "version": "0.1.0",
+  "authors": [
+    "Wedgies",
+    "Inc"
+  ],
+  "description": "Syncrhonized CSS stylesheets and JSON data for multiple emoji variants based on emoji-data",
+  "keywords": [
+    "emoji",
+    "css",
+    "stylesheet",
+    "data-uri"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
