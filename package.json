@@ -1,6 +1,6 @@
 {
   "name": "wemoji",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Universal emoji database, drop-in replacement for gemoji.",
   "main": "index.js",
   "scripts": {
