@@ -78,6 +78,7 @@ The markup that we use with this css is:
 You can create the proper CSS class name by prepending ```emoji-``` to the 'css' field of wemoji. If you use [emoji-text](https://www.npmjs.com/package/emoji-text), you can do that easily like this:
 
 ```javascript
+var emojiText = require('emoji-text')
 var util = require('util')
 
 emojiText.convert( str, { callback: function(emoji, data) {
