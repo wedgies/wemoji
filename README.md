@@ -4,8 +4,8 @@ A drop-in replacement for [gemoji](https://www.npmjs.com/package/gemoji), with p
 
 ## Installation
 
-```
-npm install wemoji
+```bash
+$ npm install wemoji
 ```
 
 ## Usage
@@ -74,11 +74,6 @@ We looked at each and decided that emoji-data had the nicest and most complete d
 - an npm data source module to replace gemoji (we plug this data into [emoji-text](https://www.npmjs.com/package/emoji-text) to accessibly convert emoji on our back end)
 - CSS stylesheets with data-uri encoded images similar to those provided by [emojify](https://github.com/hassankhan/emojify.js) - a separate one for twitter, apple, and github emoji icons.
 - A matched JSON data file to plug into our [emoji picker](https://github.com/wedgies/jquery-emoji-picker)
-
-
-
-## Usage
-
 
 
 [![Built with Wedgies](https://d3v9r9uda02hel.cloudfront.net/production/1.55.17/img/built-with-wedgies.png)](http://wedgies.com)
