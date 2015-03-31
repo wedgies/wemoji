@@ -1,6 +1,8 @@
 # wemoji
 
-A drop-in replacement for [gemoji](https://www.npmjs.com/package/gemoji), with perfectly CSS display and [emoji picker](https://github.com/wedgies/jquery-emoji-picker) assets. Built off of [emoji-data](https://github.com/iamcal/emoji-data)
+Universal emoji database used by Wedgies. A near drop-in replacement for [gemoji](https://www.npmjs.com/package/gemoji) with better data, plus perfectly matched CSS display and [emoji picker](https://github.com/wedgies/jquery-emoji-picker) assets for front and back end harmony. Built off of [emoji-data](https://github.com/iamcal/emoji-data)
+
+We go front, we go back, we go inside-out, and then, we go front and back. For emoji.
 
 ## Installation
 

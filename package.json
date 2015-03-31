@@ -1,7 +1,7 @@
 {
   "name": "wemoji",
   "version": "0.1.0",
-  "description": "Universal emoji database used by Wedgies. A near drop-in replacement for gemoji with better data, plus optional CSS image assets.",
+  "description": "Universal emoji database used by Wedgies. A near drop-in replacement for gemoji with better data, plus optional matching CSS image assets.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
