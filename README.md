@@ -53,6 +53,36 @@ Yields:
 - **css** : the css class suffix for the stylesheets, not always the same as the name
 - **category** : the name of the category we use in our picker
 
+## Assets
+
+You can install the front end assets using bower:
+
+```bash
+$ bower install wemoji-assets
+```
+
+If you don't like bower, you can just grab them from our [git repository](https://github.com/wedgies/wemoji/tree/master/dist).
+
+## Asset Usage
+
+Just include the ```emoji.css``` and one of ```wemoji-tw.css```, ```wemoji-g.css```, ```wemoji-a.css```. Each corresponds to *twitter*, *google*, and *apple* depending on your choice. There is also an HTML file so you can easily preview each set.
+
+The markup that we use with this css is:
+
+```html
+  <span class="emoji emoji-love_hotel">LOVE HOTEL</span>
+```
+
+You can create the proper CSS class name by prepending ```emoji-``` to the 'css' field of wemoji. If you use [emoji-text](https://github.com/wedgies/emoji-text), you can do that easily like this:
+
+```javascript
+emojiText.convert( str, { callback: function(emoji, data) {
+  return util.format('<span class="emoji emoji-%s">%s</span>',
+    data.css, data.name);
+  }
+});
+```
+
 ## Rebuilding Everything
 
 We use [emoji-data](https://github.com/iamcal/emoji-data) as a submodule, so make sure you check out and initial the submodule prior to trying a rebuild.
