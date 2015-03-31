@@ -73,15 +73,19 @@ The markup that we use with this css is:
   <span class="emoji emoji-love_hotel">LOVE HOTEL</span>
 ```
 
-You can create the proper CSS class name by prepending ```emoji-``` to the 'css' field of wemoji. If you use [emoji-text](https://github.com/wedgies/emoji-text), you can do that easily like this:
+You can create the proper CSS class name by prepending ```emoji-``` to the 'css' field of wemoji. If you use [emoji-text](https://www.npmjs.com/package/emoji-text), you can do that easily like this:
 
 ```javascript
+var util = require('util')
+
 emojiText.convert( str, { callback: function(emoji, data) {
   return util.format('<span class="emoji emoji-%s">%s</span>',
-    data.css, data.name);
+    data.css, data.description);
   }
-});
+})
 ```
+
+The text inside the span ensures that the meaning of the emoji can be seen by a screen reader or text based browser. The emoji class will hide it away for graphical browsers.
 
 ## Rebuilding Everything
 
