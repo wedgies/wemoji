@@ -12,7 +12,7 @@
     "dist/wemoji-tw.json",
     "dist/wemoji-tw.html"
   ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "authors": [
     "Wedgies, Inc"
   ],
@@ -25,13 +25,13 @@
   ],
   "license": "ISC",
   "ignore": [
-    'Gruntfile.js',
-    'README.md',
-    'build.js',
-    'data',
-    'emoji-data',
-    'index.js',
-    'lib',
-    'package.json'
+    "Gruntfile.js",
+    "README.md",
+    "build.js",
+    "data",
+    "emoji-data",
+    "index.js",
+    "lib",
+    "package.json"
   ]
 }
