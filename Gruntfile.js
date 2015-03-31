@@ -9,7 +9,8 @@ module.exports = function(grunt) {
     },
     bump: {
       options: {
-        commitFiles: ['package.json','bower.json'],
+        files: ['package.json','bower.json'],
+        pushTo: 'master'
       }
     }
   });
