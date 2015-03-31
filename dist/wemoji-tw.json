@@ -1,98 +1,98 @@
 [
   {
     "name": "bangbang",
-    "unicode": "203C",
+    "unicode": "203C-FE0F",
     "shortcode": "bangbang",
     "description": "DOUBLE EXCLAMATION MARK",
     "category": "symbol"
   },
   {
     "name": "interrobang",
-    "unicode": "2049",
+    "unicode": "2049-FE0F",
     "shortcode": "interrobang",
     "description": "EXCLAMATION QUESTION MARK",
     "category": "folderol"
   },
   {
     "name": "tm",
-    "unicode": "2122",
+    "unicode": "2122-FE0F",
     "shortcode": "tm",
     "description": "TRADE MARK SIGN",
     "category": "folderol"
   },
   {
     "name": "information_source",
-    "unicode": "2139",
+    "unicode": "2139-FE0F",
     "shortcode": "information_source",
     "description": "INFORMATION SOURCE",
     "category": "folderol"
   },
   {
     "name": "left_right_arrow",
-    "unicode": "2194",
+    "unicode": "2194-FE0F",
     "shortcode": "left_right_arrow",
     "description": "LEFT RIGHT ARROW",
     "category": "folderol"
   },
   {
     "name": "arrow_up_down",
-    "unicode": "2195",
+    "unicode": "2195-FE0F",
     "shortcode": "arrow_up_down",
     "description": "UP DOWN ARROW",
     "category": "folderol"
   },
   {
     "name": "arrow_upper_left",
-    "unicode": "2196",
+    "unicode": "2196-FE0F",
     "shortcode": "arrow_upper_left",
     "description": "NORTH WEST ARROW",
     "category": "folderol"
   },
   {
     "name": "arrow_upper_right",
-    "unicode": "2197",
+    "unicode": "2197-FE0F",
     "shortcode": "arrow_upper_right",
     "description": "NORTH EAST ARROW",
     "category": "folderol"
   },
   {
     "name": "arrow_lower_right",
-    "unicode": "2198",
+    "unicode": "2198-FE0F",
     "shortcode": "arrow_lower_right",
     "description": "SOUTH EAST ARROW",
     "category": "folderol"
   },
   {
     "name": "arrow_lower_left",
-    "unicode": "2199",
+    "unicode": "2199-FE0F",
     "shortcode": "arrow_lower_left",
     "description": "SOUTH WEST ARROW",
     "category": "folderol"
   },
   {
     "name": "leftwards_arrow_with_hook",
-    "unicode": "21A9",
+    "unicode": "21A9-FE0F",
     "shortcode": "leftwards_arrow_with_hook",
     "description": "LEFTWARDS ARROW WITH HOOK",
     "category": "folderol"
   },
   {
     "name": "arrow_right_hook",
-    "unicode": "21AA",
+    "unicode": "21AA-FE0F",
     "shortcode": "arrow_right_hook",
     "description": "RIGHTWARDS ARROW WITH HOOK",
     "category": "folderol"
   },
   {
     "name": "watch",
-    "unicode": "231A",
+    "unicode": "231A-FE0F",
     "shortcode": "watch",
     "description": "WATCH",
     "category": "thing"
   },
   {
     "name": "hourglass",
-    "unicode": "231B",
+    "unicode": "231B-FE0F",
     "shortcode": "hourglass",
     "description": "HOURGLASS",
     "category": "thing"
@@ -140,315 +140,315 @@
   },
   {
     "name": "m",
-    "unicode": "24C2",
+    "unicode": "24C2-FE0F",
     "shortcode": "m",
     "description": "CIRCLED LATIN CAPITAL LETTER M",
     "category": "folderol"
   },
   {
     "name": "black_small_square",
-    "unicode": "25AA",
+    "unicode": "25AA-FE0F",
     "shortcode": "black_small_square",
     "description": "BLACK SMALL SQUARE",
     "category": "folderol"
   },
   {
     "name": "white_small_square",
-    "unicode": "25AB",
+    "unicode": "25AB-FE0F",
     "shortcode": "white_small_square",
     "description": "WHITE SMALL SQUARE",
     "category": "folderol"
   },
   {
     "name": "arrow_forward",
-    "unicode": "25B6",
+    "unicode": "25B6-FE0F",
     "shortcode": "arrow_forward",
     "description": "BLACK RIGHT-POINTING TRIANGLE",
     "category": "folderol"
   },
   {
     "name": "arrow_backward",
-    "unicode": "25C0",
+    "unicode": "25C0-FE0F",
     "shortcode": "arrow_backward",
     "description": "BLACK LEFT-POINTING TRIANGLE",
     "category": "folderol"
   },
   {
     "name": "white_medium_square",
-    "unicode": "25FB",
+    "unicode": "25FB-FE0F",
     "shortcode": "white_medium_square",
     "description": "WHITE MEDIUM SQUARE",
     "category": "folderol"
   },
   {
     "name": "black_medium_square",
-    "unicode": "25FC",
+    "unicode": "25FC-FE0F",
     "shortcode": "black_medium_square",
     "description": "BLACK MEDIUM SQUARE",
     "category": "folderol"
   },
   {
     "name": "white_medium_small_square",
-    "unicode": "25FD",
+    "unicode": "25FD-FE0F",
     "shortcode": "white_medium_small_square",
     "description": "WHITE MEDIUM SMALL SQUARE",
     "category": "folderol"
   },
   {
     "name": "black_medium_small_square",
-    "unicode": "25FE",
+    "unicode": "25FE-FE0F",
     "shortcode": "black_medium_small_square",
     "description": "BLACK MEDIUM SMALL SQUARE",
     "category": "folderol"
   },
   {
     "name": "sunny",
-    "unicode": "2600",
+    "unicode": "2600-FE0F",
     "shortcode": "sunny",
     "description": "BLACK SUN WITH RAYS",
     "category": "thing"
   },
   {
     "name": "cloud",
-    "unicode": "2601",
+    "unicode": "2601-FE0F",
     "shortcode": "cloud",
     "description": "CLOUD",
     "category": "thing"
   },
   {
     "name": "phone",
-    "unicode": "260E",
+    "unicode": "260E-FE0F",
     "shortcode": "phone",
     "description": "BLACK TELEPHONE",
     "category": "thing"
   },
   {
     "name": "ballot_box_with_check",
-    "unicode": "2611",
+    "unicode": "2611-FE0F",
     "shortcode": "ballot_box_with_check",
     "description": "BALLOT BOX WITH CHECK",
     "category": "thing"
   },
   {
     "name": "umbrella",
-    "unicode": "2614",
+    "unicode": "2614-FE0F",
     "shortcode": "umbrella",
     "description": "UMBRELLA WITH RAIN DROPS",
     "category": "thing"
   },
   {
     "name": "coffee",
-    "unicode": "2615",
+    "unicode": "2615-FE0F",
     "shortcode": "coffee",
     "description": "HOT BEVERAGE",
     "category": "thing"
   },
   {
     "name": "point_up",
-    "unicode": "261D",
+    "unicode": "261D-FE0F",
     "shortcode": "point_up",
     "description": "WHITE UP POINTING INDEX",
     "category": "people"
   },
   {
     "name": "relaxed",
-    "unicode": "263A",
+    "unicode": "263A-FE0F",
     "shortcode": "relaxed",
     "description": "WHITE SMILING FACE",
     "category": "emotion"
   },
   {
     "name": "aries",
-    "unicode": "2648",
+    "unicode": "2648-FE0F",
     "shortcode": "aries",
     "description": "ARIES",
     "category": "folderol"
   },
   {
     "name": "taurus",
-    "unicode": "2649",
+    "unicode": "2649-FE0F",
     "shortcode": "taurus",
     "description": "TAURUS",
     "category": "folderol"
   },
   {
     "name": "gemini",
-    "unicode": "264A",
+    "unicode": "264A-FE0F",
     "shortcode": "gemini",
     "description": "GEMINI",
     "category": "folderol"
   },
   {
     "name": "cancer",
-    "unicode": "264B",
+    "unicode": "264B-FE0F",
     "shortcode": "cancer",
     "description": "CANCER",
     "category": "folderol"
   },
   {
     "name": "leo",
-    "unicode": "264C",
+    "unicode": "264C-FE0F",
     "shortcode": "leo",
     "description": "LEO",
     "category": "folderol"
   },
   {
     "name": "virgo",
-    "unicode": "264D",
+    "unicode": "264D-FE0F",
     "shortcode": "virgo",
     "description": "VIRGO",
     "category": "folderol"
   },
   {
     "name": "libra",
-    "unicode": "264E",
+    "unicode": "264E-FE0F",
     "shortcode": "libra",
     "description": "LIBRA",
     "category": "folderol"
   },
   {
     "name": "scorpius",
-    "unicode": "264F",
+    "unicode": "264F-FE0F",
     "shortcode": "scorpius",
     "description": "SCORPIUS",
     "category": "folderol"
   },
   {
     "name": "sagittarius",
-    "unicode": "2650",
+    "unicode": "2650-FE0F",
     "shortcode": "sagittarius",
     "description": "SAGITTARIUS",
     "category": "folderol"
   },
   {
     "name": "capricorn",
-    "unicode": "2651",
+    "unicode": "2651-FE0F",
     "shortcode": "capricorn",
     "description": "CAPRICORN",
     "category": "folderol"
   },
   {
     "name": "aquarius",
-    "unicode": "2652",
+    "unicode": "2652-FE0F",
     "shortcode": "aquarius",
     "description": "AQUARIUS",
     "category": "folderol"
   },
   {
     "name": "pisces",
-    "unicode": "2653",
+    "unicode": "2653-FE0F",
     "shortcode": "pisces",
     "description": "PISCES",
     "category": "folderol"
   },
   {
     "name": "spades",
-    "unicode": "2660",
+    "unicode": "2660-FE0F",
     "shortcode": "spades",
     "description": "BLACK SPADE SUIT",
     "category": "folderol"
   },
   {
     "name": "clubs",
-    "unicode": "2663",
+    "unicode": "2663-FE0F",
     "shortcode": "clubs",
     "description": "BLACK CLUB SUIT",
     "category": "folderol"
   },
   {
     "name": "hearts",
-    "unicode": "2665",
+    "unicode": "2665-FE0F",
     "shortcode": "hearts",
     "description": "BLACK HEART SUIT",
     "category": "folderol"
   },
   {
     "name": "diamonds",
-    "unicode": "2666",
+    "unicode": "2666-FE0F",
     "shortcode": "diamonds",
     "description": "BLACK DIAMOND SUIT",
     "category": "folderol"
   },
   {
     "name": "hotsprings",
-    "unicode": "2668",
+    "unicode": "2668-FE0F",
     "shortcode": "hotsprings",
     "description": "HOT SPRINGS",
     "category": "thing"
   },
   {
     "name": "recycle",
-    "unicode": "267B",
+    "unicode": "267B-FE0F",
     "shortcode": "recycle",
     "description": "BLACK UNIVERSAL RECYCLING SYMBOL",
     "category": "folderol"
   },
   {
     "name": "wheelchair",
-    "unicode": "267F",
+    "unicode": "267F-FE0F",
     "shortcode": "wheelchair",
     "description": "WHEELCHAIR SYMBOL",
     "category": "thing"
   },
   {
     "name": "anchor",
-    "unicode": "2693",
+    "unicode": "2693-FE0F",
     "shortcode": "anchor",
     "description": "ANCHOR",
     "category": "thing"
   },
   {
     "name": "warning",
-    "unicode": "26A0",
+    "unicode": "26A0-FE0F",
     "shortcode": "warning",
     "description": "WARNING SIGN",
     "category": "thing"
   },
   {
     "name": "zap",
-    "unicode": "26A1",
+    "unicode": "26A1-FE0F",
     "shortcode": "zap",
     "description": "HIGH VOLTAGE SIGN",
     "category": "thing"
   },
   {
     "name": "white_circle",
-    "unicode": "26AA",
+    "unicode": "26AA-FE0F",
     "shortcode": "white_circle",
     "description": "MEDIUM WHITE CIRCLE",
     "category": "folderol"
   },
   {
     "name": "black_circle",
-    "unicode": "26AB",
+    "unicode": "26AB-FE0F",
     "shortcode": "black_circle",
     "description": "MEDIUM BLACK CIRCLE",
     "category": "folderol"
   },
   {
     "name": "soccer",
-    "unicode": "26BD",
+    "unicode": "26BD-FE0F",
     "shortcode": "soccer",
     "description": "SOCCER BALL",
     "category": "thing"
   },
   {
     "name": "baseball",
-    "unicode": "26BE",
+    "unicode": "26BE-FE0F",
     "shortcode": "baseball",
     "description": "BASEBALL",
     "category": "thing"
   },
   {
     "name": "snowman",
-    "unicode": "26C4",
+    "unicode": "26C4-FE0F",
     "shortcode": "snowman",
     "description": "SNOWMAN WITHOUT SNOW",
     "category": "thing"
   },
   {
     "name": "partly_sunny",
-    "unicode": "26C5",
+    "unicode": "26C5-FE0F",
     "shortcode": "partly_sunny",
     "description": "SUN BEHIND CLOUD",
     "category": "thing"
@@ -462,56 +462,56 @@
   },
   {
     "name": "no_entry",
-    "unicode": "26D4",
+    "unicode": "26D4-FE0F",
     "shortcode": "no_entry",
     "description": "NO ENTRY",
     "category": "folderol"
   },
   {
     "name": "church",
-    "unicode": "26EA",
+    "unicode": "26EA-FE0F",
     "shortcode": "church",
     "description": "CHURCH",
     "category": "travel"
   },
   {
     "name": "fountain",
-    "unicode": "26F2",
+    "unicode": "26F2-FE0F",
     "shortcode": "fountain",
     "description": "FOUNTAIN",
     "category": "travel"
   },
   {
     "name": "golf",
-    "unicode": "26F3",
+    "unicode": "26F3-FE0F",
     "shortcode": "golf",
     "description": "FLAG IN HOLE",
     "category": "travel"
   },
   {
     "name": "boat",
-    "unicode": "26F5",
+    "unicode": "26F5-FE0F",
     "shortcode": "boat",
     "description": "SAILBOAT",
     "category": "travel"
   },
   {
     "name": "tent",
-    "unicode": "26FA",
+    "unicode": "26FA-FE0F",
     "shortcode": "tent",
     "description": "TENT",
     "category": "travel"
   },
   {
     "name": "fuelpump",
-    "unicode": "26FD",
+    "unicode": "26FD-FE0F",
     "shortcode": "fuelpump",
     "description": "FUEL PUMP",
     "category": "travel"
   },
   {
     "name": "scissors",
-    "unicode": "2702",
+    "unicode": "2702-FE0F",
     "shortcode": "scissors",
     "description": "BLACK SCISSORS",
     "category": "thing"
@@ -525,14 +525,14 @@
   },
   {
     "name": "airplane",
-    "unicode": "2708",
+    "unicode": "2708-FE0F",
     "shortcode": "airplane",
     "description": "AIRPLANE",
     "category": "thing"
   },
   {
     "name": "email",
-    "unicode": "2709",
+    "unicode": "2709-FE0F",
     "shortcode": "email",
     "description": "ENVELOPE",
     "category": "thing"
@@ -553,35 +553,35 @@
   },
   {
     "name": "v",
-    "unicode": "270C",
+    "unicode": "270C-FE0F",
     "shortcode": "v",
     "description": "VICTORY HAND",
     "category": "folderol"
   },
   {
     "name": "pencil2",
-    "unicode": "270F",
+    "unicode": "270F-FE0F",
     "shortcode": "pencil2",
     "description": "PENCIL",
     "category": "thing"
   },
   {
     "name": "black_nib",
-    "unicode": "2712",
+    "unicode": "2712-FE0F",
     "shortcode": "black_nib",
     "description": "BLACK NIB",
     "category": "folderol"
   },
   {
     "name": "heavy_check_mark",
-    "unicode": "2714",
+    "unicode": "2714-FE0F",
     "shortcode": "heavy_check_mark",
     "description": "HEAVY CHECK MARK",
     "category": "folderol"
   },
   {
     "name": "heavy_multiplication_x",
-    "unicode": "2716",
+    "unicode": "2716-FE0F",
     "shortcode": "heavy_multiplication_x",
     "description": "HEAVY MULTIPLICATION X",
     "category": "folderol"
@@ -595,28 +595,28 @@
   },
   {
     "name": "eight_spoked_asterisk",
-    "unicode": "2733",
+    "unicode": "2733-FE0F",
     "shortcode": "eight_spoked_asterisk",
     "description": "EIGHT SPOKED ASTERISK",
     "category": "folderol"
   },
   {
     "name": "eight_pointed_black_star",
-    "unicode": "2734",
+    "unicode": "2734-FE0F",
     "shortcode": "eight_pointed_black_star",
     "description": "EIGHT POINTED BLACK STAR",
     "category": "folderol"
   },
   {
     "name": "snowflake",
-    "unicode": "2744",
+    "unicode": "2744-FE0F",
     "shortcode": "snowflake",
     "description": "SNOWFLAKE",
     "category": "thing"
   },
   {
     "name": "sparkle",
-    "unicode": "2747",
+    "unicode": "2747-FE0F",
     "shortcode": "sparkle",
     "description": "SPARKLE",
     "category": "thing"
@@ -658,14 +658,14 @@
   },
   {
     "name": "exclamation",
-    "unicode": "2757",
+    "unicode": "2757-FE0F",
     "shortcode": "exclamation",
     "description": "HEAVY EXCLAMATION MARK SYMBOL",
     "category": "folderol"
   },
   {
     "name": "heart",
-    "unicode": "2764",
+    "unicode": "2764-FE0F",
     "shortcode": "heart",
     "description": "HEAVY BLACK HEART",
     "category": "folderol"
@@ -693,7 +693,7 @@
   },
   {
     "name": "arrow_right",
-    "unicode": "27A1",
+    "unicode": "27A1-FE0F",
     "shortcode": "arrow_right",
     "description": "BLACK RIGHTWARDS ARROW",
     "category": "folderol"
@@ -714,98 +714,98 @@
   },
   {
     "name": "arrow_heading_up",
-    "unicode": "2934",
+    "unicode": "2934-FE0F",
     "shortcode": "arrow_heading_up",
     "description": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS",
     "category": "folderol"
   },
   {
     "name": "arrow_heading_down",
-    "unicode": "2935",
+    "unicode": "2935-FE0F",
     "shortcode": "arrow_heading_down",
     "description": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS",
     "category": "folderol"
   },
   {
     "name": "arrow_left",
-    "unicode": "2B05",
+    "unicode": "2B05-FE0F",
     "shortcode": "arrow_left",
     "description": "LEFTWARDS BLACK ARROW",
     "category": "folderol"
   },
   {
     "name": "arrow_up",
-    "unicode": "2B06",
+    "unicode": "2B06-FE0F",
     "shortcode": "arrow_up",
     "description": "UPWARDS BLACK ARROW",
     "category": "folderol"
   },
   {
     "name": "arrow_down",
-    "unicode": "2B07",
+    "unicode": "2B07-FE0F",
     "shortcode": "arrow_down",
     "description": "DOWNWARDS BLACK ARROW",
     "category": "folderol"
   },
   {
     "name": "black_large_square",
-    "unicode": "2B1B",
+    "unicode": "2B1B-FE0F",
     "shortcode": "black_large_square",
     "description": "BLACK LARGE SQUARE",
     "category": "folderol"
   },
   {
     "name": "white_large_square",
-    "unicode": "2B1C",
+    "unicode": "2B1C-FE0F",
     "shortcode": "white_large_square",
     "description": "WHITE LARGE SQUARE",
     "category": "folderol"
   },
   {
     "name": "star",
-    "unicode": "2B50",
+    "unicode": "2B50-FE0F",
     "shortcode": "star",
     "description": "WHITE MEDIUM STAR",
     "category": "thing"
   },
   {
     "name": "o",
-    "unicode": "2B55",
+    "unicode": "2B55-FE0F",
     "shortcode": "o",
     "description": "HEAVY LARGE CIRCLE",
     "category": "folderol"
   },
   {
     "name": "wavy_dash",
-    "unicode": "3030",
+    "unicode": "3030-FE0F",
     "shortcode": "wavy_dash",
     "description": "WAVY DASH",
     "category": "folderol"
   },
   {
     "name": "part_alternation_mark",
-    "unicode": "303D",
+    "unicode": "303D-FE0F",
     "shortcode": "part_alternation_mark",
     "description": "PART ALTERNATION MARK",
     "category": "folderol"
   },
   {
     "name": "congratulations",
-    "unicode": "3297",
+    "unicode": "3297-FE0F",
     "shortcode": "congratulations",
     "description": "CIRCLED IDEOGRAPH CONGRATULATION",
     "category": "folderol"
   },
   {
     "name": "secret",
-    "unicode": "3299",
+    "unicode": "3299-FE0F",
     "shortcode": "secret",
     "description": "CIRCLED IDEOGRAPH SECRET",
     "category": "folderol"
   },
   {
     "name": "mahjong",
-    "unicode": "1F004",
+    "unicode": "1F004-FE0F",
     "shortcode": "mahjong",
     "description": "MAHJONG TILE RED DRAGON",
     "category": "folderol"
@@ -819,28 +819,28 @@
   },
   {
     "name": "a",
-    "unicode": "1F170",
+    "unicode": "1F170-FE0F",
     "shortcode": "a",
     "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER A",
     "category": "folderol"
   },
   {
     "name": "b",
-    "unicode": "1F171",
+    "unicode": "1F171-FE0F",
     "shortcode": "b",
     "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER B",
     "category": "folderol"
   },
   {
     "name": "o2",
-    "unicode": "1F17E",
+    "unicode": "1F17E-FE0F",
     "shortcode": "o2",
     "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER O",
     "category": "folderol"
   },
   {
     "name": "parking",
-    "unicode": "1F17F",
+    "unicode": "1F17F-FE0F",
     "shortcode": "parking",
     "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER P",
     "category": "folderol"
@@ -931,21 +931,21 @@
   },
   {
     "name": "sa",
-    "unicode": "1F202",
+    "unicode": "1F202-FE0F",
     "shortcode": "sa",
     "description": "SQUARED KATAKANA SA",
     "category": "folderol"
   },
   {
     "name": "u7121",
-    "unicode": "1F21A",
+    "unicode": "1F21A-FE0F",
     "shortcode": "u7121",
     "description": "SQUARED CJK UNIFIED IDEOGRAPH-7121",
     "category": "folderol"
   },
   {
     "name": "u6307",
-    "unicode": "1F22F",
+    "unicode": "1F22F-FE0F",
     "shortcode": "u6307",
     "description": "SQUARED CJK UNIFIED IDEOGRAPH-6307",
     "category": "folderol"
@@ -987,7 +987,7 @@
   },
   {
     "name": "u6708",
-    "unicode": "1F237",
+    "unicode": "1F237-FE0F",
     "shortcode": "u6708",
     "description": "SQUARED CJK UNIFIED IDEOGRAPH-6708",
     "category": "folderol"
@@ -5754,77 +5754,77 @@
   },
   {
     "name": "hash",
-    "unicode": "0023-20E3",
+    "unicode": "0023-FE0F-20E3",
     "shortcode": "hash",
     "description": "HASH KEY",
     "category": "folderol"
   },
   {
     "name": "zero",
-    "unicode": "0030-20E3",
+    "unicode": "0030-FE0F-20E3",
     "shortcode": "zero",
     "description": "KEYCAP 0",
     "category": "folderol"
   },
   {
     "name": "one",
-    "unicode": "0031-20E3",
+    "unicode": "0031-FE0F-20E3",
     "shortcode": "one",
     "description": "KEYCAP 1",
     "category": "folderol"
   },
   {
     "name": "two",
-    "unicode": "0032-20E3",
+    "unicode": "0032-FE0F-20E3",
     "shortcode": "two",
     "description": "KEYCAP 2",
     "category": "folderol"
   },
   {
     "name": "three",
-    "unicode": "0033-20E3",
+    "unicode": "0033-FE0F-20E3",
     "shortcode": "three",
     "description": "KEYCAP 3",
     "category": "folderol"
   },
   {
     "name": "four",
-    "unicode": "0034-20E3",
+    "unicode": "0034-FE0F-20E3",
     "shortcode": "four",
     "description": "KEYCAP 4",
     "category": "folderol"
   },
   {
     "name": "five",
-    "unicode": "0035-20E3",
+    "unicode": "0035-FE0F-20E3",
     "shortcode": "five",
     "description": "KEYCAP 5",
     "category": "folderol"
   },
   {
     "name": "six",
-    "unicode": "0036-20E3",
+    "unicode": "0036-FE0F-20E3",
     "shortcode": "six",
     "description": "KEYCAP 6",
     "category": "folderol"
   },
   {
     "name": "seven",
-    "unicode": "0037-20E3",
+    "unicode": "0037-FE0F-20E3",
     "shortcode": "seven",
     "description": "KEYCAP 7",
     "category": "folderol"
   },
   {
     "name": "eight",
-    "unicode": "0038-20E3",
+    "unicode": "0038-FE0F-20E3",
     "shortcode": "eight",
     "description": "KEYCAP 8",
     "category": "folderol"
   },
   {
     "name": "nine",
-    "unicode": "0039-20E3",
+    "unicode": "0039-FE0F-20E3",
     "shortcode": "nine",
     "description": "KEYCAP 9",
     "category": "folderol"

@@ -1,28 +1,26 @@
 {
-  "©": {
-    "emoji": "©",
+  "©️": {
+    "emoji": "©️",
     "platforms": [
       "a",
       "g"
     ],
     "description": "COPYRIGHT SIGN",
     "name": "copyright",
-    "css": "copyright",
-    "category": "folderol"
+    "css": "copyright"
   },
-  "®": {
-    "emoji": "®",
+  "®️": {
+    "emoji": "®️",
     "platforms": [
       "a",
       "g"
     ],
     "description": "REGISTERED SIGN",
     "name": "registered",
-    "css": "registered",
-    "category": "folderol"
+    "css": "registered"
   },
-  "‼": {
-    "emoji": "‼",
+  "‼️": {
+    "emoji": "‼️",
     "platforms": [
       "tw",
       "a",
@@ -30,11 +28,10 @@
     ],
     "description": "DOUBLE EXCLAMATION MARK",
     "name": "bangbang",
-    "css": "bangbang",
-    "category": "symbol"
+    "css": "bangbang"
   },
-  "⁉": {
-    "emoji": "⁉",
+  "⁉️": {
+    "emoji": "⁉️",
     "platforms": [
       "tw",
       "a",
@@ -42,11 +39,10 @@
     ],
     "description": "EXCLAMATION QUESTION MARK",
     "name": "interrobang",
-    "css": "interrobang",
-    "category": "folderol"
+    "css": "interrobang"
   },
-  "™": {
-    "emoji": "™",
+  "™️": {
+    "emoji": "™️",
     "platforms": [
       "tw",
       "a",
@@ -54,11 +50,10 @@
     ],
     "description": "TRADE MARK SIGN",
     "name": "tm",
-    "css": "tm",
-    "category": "folderol"
+    "css": "tm"
   },
-  "ℹ": {
-    "emoji": "ℹ",
+  "ℹ️": {
+    "emoji": "ℹ️",
     "platforms": [
       "tw",
       "a",
@@ -66,11 +61,10 @@
     ],
     "description": "INFORMATION SOURCE",
     "name": "information_source",
-    "css": "information_source",
-    "category": "folderol"
+    "css": "information_source"
   },
-  "↔": {
-    "emoji": "↔",
+  "↔️": {
+    "emoji": "↔️",
     "platforms": [
       "tw",
       "a",
@@ -78,11 +72,10 @@
     ],
     "description": "LEFT RIGHT ARROW",
     "name": "left_right_arrow",
-    "css": "left_right_arrow",
-    "category": "folderol"
+    "css": "left_right_arrow"
   },
-  "↕": {
-    "emoji": "↕",
+  "↕️": {
+    "emoji": "↕️",
     "platforms": [
       "tw",
       "a",
@@ -90,11 +83,10 @@
     ],
     "description": "UP DOWN ARROW",
     "name": "arrow_up_down",
-    "css": "arrow_up_down",
-    "category": "folderol"
+    "css": "arrow_up_down"
   },
-  "↖": {
-    "emoji": "↖",
+  "↖️": {
+    "emoji": "↖️",
     "platforms": [
       "tw",
       "a",
@@ -102,11 +94,10 @@
     ],
     "description": "NORTH WEST ARROW",
     "name": "arrow_upper_left",
-    "css": "arrow_upper_left",
-    "category": "folderol"
+    "css": "arrow_upper_left"
   },
-  "↗": {
-    "emoji": "↗",
+  "↗️": {
+    "emoji": "↗️",
     "platforms": [
       "tw",
       "a",
@@ -114,11 +105,10 @@
     ],
     "description": "NORTH EAST ARROW",
     "name": "arrow_upper_right",
-    "css": "arrow_upper_right",
-    "category": "folderol"
+    "css": "arrow_upper_right"
   },
-  "↘": {
-    "emoji": "↘",
+  "↘️": {
+    "emoji": "↘️",
     "platforms": [
       "tw",
       "a",
@@ -126,11 +116,10 @@
     ],
     "description": "SOUTH EAST ARROW",
     "name": "arrow_lower_right",
-    "css": "arrow_lower_right",
-    "category": "folderol"
+    "css": "arrow_lower_right"
   },
-  "↙": {
-    "emoji": "↙",
+  "↙️": {
+    "emoji": "↙️",
     "platforms": [
       "tw",
       "a",
@@ -138,11 +127,10 @@
     ],
     "description": "SOUTH WEST ARROW",
     "name": "arrow_lower_left",
-    "css": "arrow_lower_left",
-    "category": "folderol"
+    "css": "arrow_lower_left"
   },
-  "↩": {
-    "emoji": "↩",
+  "↩️": {
+    "emoji": "↩️",
     "platforms": [
       "tw",
       "a",
@@ -150,11 +138,10 @@
     ],
     "description": "LEFTWARDS ARROW WITH HOOK",
     "name": "leftwards_arrow_with_hook",
-    "css": "leftwards_arrow_with_hook",
-    "category": "folderol"
+    "css": "leftwards_arrow_with_hook"
   },
-  "↪": {
-    "emoji": "↪",
+  "↪️": {
+    "emoji": "↪️",
     "platforms": [
       "tw",
       "a",
@@ -162,11 +149,10 @@
     ],
     "description": "RIGHTWARDS ARROW WITH HOOK",
     "name": "arrow_right_hook",
-    "css": "arrow_right_hook",
-    "category": "folderol"
+    "css": "arrow_right_hook"
   },
-  "⌚": {
-    "emoji": "⌚",
+  "⌚️": {
+    "emoji": "⌚️",
     "platforms": [
       "tw",
       "a",
@@ -174,11 +160,10 @@
     ],
     "description": "WATCH",
     "name": "watch",
-    "css": "watch",
-    "category": "thing"
+    "css": "watch"
   },
-  "⌛": {
-    "emoji": "⌛",
+  "⌛️": {
+    "emoji": "⌛️",
     "platforms": [
       "tw",
       "a",
@@ -186,8 +171,7 @@
     ],
     "description": "HOURGLASS",
     "name": "hourglass",
-    "css": "hourglass",
-    "category": "thing"
+    "css": "hourglass"
   },
   "⏩": {
     "emoji": "⏩",
@@ -260,8 +244,8 @@
     "css": "hourglass_flowing_sand",
     "category": "thing"
   },
-  "Ⓜ": {
-    "emoji": "Ⓜ",
+  "Ⓜ️": {
+    "emoji": "Ⓜ️",
     "platforms": [
       "tw",
       "a",
@@ -269,11 +253,10 @@
     ],
     "description": "CIRCLED LATIN CAPITAL LETTER M",
     "name": "m",
-    "css": "m",
-    "category": "folderol"
+    "css": "m"
   },
-  "▪": {
-    "emoji": "▪",
+  "▪️": {
+    "emoji": "▪️",
     "platforms": [
       "tw",
       "a",
@@ -281,11 +264,10 @@
     ],
     "description": "BLACK SMALL SQUARE",
     "name": "black_small_square",
-    "css": "black_small_square",
-    "category": "folderol"
+    "css": "black_small_square"
   },
-  "▫": {
-    "emoji": "▫",
+  "▫️": {
+    "emoji": "▫️",
     "platforms": [
       "tw",
       "a",
@@ -293,11 +275,10 @@
     ],
     "description": "WHITE SMALL SQUARE",
     "name": "white_small_square",
-    "css": "white_small_square",
-    "category": "folderol"
+    "css": "white_small_square"
   },
-  "▶": {
-    "emoji": "▶",
+  "▶️": {
+    "emoji": "▶️",
     "platforms": [
       "tw",
       "a",
@@ -305,11 +286,10 @@
     ],
     "description": "BLACK RIGHT-POINTING TRIANGLE",
     "name": "arrow_forward",
-    "css": "arrow_forward",
-    "category": "folderol"
+    "css": "arrow_forward"
   },
-  "◀": {
-    "emoji": "◀",
+  "◀️": {
+    "emoji": "◀️",
     "platforms": [
       "tw",
       "a",
@@ -317,11 +297,10 @@
     ],
     "description": "BLACK LEFT-POINTING TRIANGLE",
     "name": "arrow_backward",
-    "css": "arrow_backward",
-    "category": "folderol"
+    "css": "arrow_backward"
   },
-  "◻": {
-    "emoji": "◻",
+  "◻️": {
+    "emoji": "◻️",
     "platforms": [
       "tw",
       "a",
@@ -329,11 +308,10 @@
     ],
     "description": "WHITE MEDIUM SQUARE",
     "name": "white_medium_square",
-    "css": "white_medium_square",
-    "category": "folderol"
+    "css": "white_medium_square"
   },
-  "◼": {
-    "emoji": "◼",
+  "◼️": {
+    "emoji": "◼️",
     "platforms": [
       "tw",
       "a",
@@ -341,11 +319,10 @@
     ],
     "description": "BLACK MEDIUM SQUARE",
     "name": "black_medium_square",
-    "css": "black_medium_square",
-    "category": "folderol"
+    "css": "black_medium_square"
   },
-  "◽": {
-    "emoji": "◽",
+  "◽️": {
+    "emoji": "◽️",
     "platforms": [
       "tw",
       "a",
@@ -353,11 +330,10 @@
     ],
     "description": "WHITE MEDIUM SMALL SQUARE",
     "name": "white_medium_small_square",
-    "css": "white_medium_small_square",
-    "category": "folderol"
+    "css": "white_medium_small_square"
   },
-  "◾": {
-    "emoji": "◾",
+  "◾️": {
+    "emoji": "◾️",
     "platforms": [
       "tw",
       "a",
@@ -365,11 +341,10 @@
     ],
     "description": "BLACK MEDIUM SMALL SQUARE",
     "name": "black_medium_small_square",
-    "css": "black_medium_small_square",
-    "category": "folderol"
+    "css": "black_medium_small_square"
   },
-  "☀": {
-    "emoji": "☀",
+  "☀️": {
+    "emoji": "☀️",
     "platforms": [
       "tw",
       "a",
@@ -377,11 +352,10 @@
     ],
     "description": "BLACK SUN WITH RAYS",
     "name": "sunny",
-    "css": "sunny",
-    "category": "thing"
+    "css": "sunny"
   },
-  "☁": {
-    "emoji": "☁",
+  "☁️": {
+    "emoji": "☁️",
     "platforms": [
       "tw",
       "a",
@@ -389,11 +363,10 @@
     ],
     "description": "CLOUD",
     "name": "cloud",
-    "css": "cloud",
-    "category": "thing"
+    "css": "cloud"
   },
-  "☎": {
-    "emoji": "☎",
+  "☎️": {
+    "emoji": "☎️",
     "platforms": [
       "tw",
       "a",
@@ -401,11 +374,10 @@
     ],
     "description": "BLACK TELEPHONE",
     "name": "phone",
-    "css": "phone",
-    "category": "thing"
+    "css": "phone"
   },
-  "☑": {
-    "emoji": "☑",
+  "☑️": {
+    "emoji": "☑️",
     "platforms": [
       "tw",
       "a",
@@ -413,11 +385,10 @@
     ],
     "description": "BALLOT BOX WITH CHECK",
     "name": "ballot_box_with_check",
-    "css": "ballot_box_with_check",
-    "category": "thing"
+    "css": "ballot_box_with_check"
   },
-  "☔": {
-    "emoji": "☔",
+  "☔️": {
+    "emoji": "☔️",
     "platforms": [
       "tw",
       "a",
@@ -425,11 +396,10 @@
     ],
     "description": "UMBRELLA WITH RAIN DROPS",
     "name": "umbrella",
-    "css": "umbrella",
-    "category": "thing"
+    "css": "umbrella"
   },
-  "☕": {
-    "emoji": "☕",
+  "☕️": {
+    "emoji": "☕️",
     "platforms": [
       "tw",
       "a",
@@ -437,11 +407,10 @@
     ],
     "description": "HOT BEVERAGE",
     "name": "coffee",
-    "css": "coffee",
-    "category": "thing"
+    "css": "coffee"
   },
-  "☝": {
-    "emoji": "☝",
+  "☝️": {
+    "emoji": "☝️",
     "platforms": [
       "tw",
       "a",
@@ -449,11 +418,10 @@
     ],
     "description": "WHITE UP POINTING INDEX",
     "name": "point_up",
-    "css": "point_up",
-    "category": "people"
+    "css": "point_up"
   },
-  "☺": {
-    "emoji": "☺",
+  "☺️": {
+    "emoji": "☺️",
     "platforms": [
       "tw",
       "a",
@@ -461,11 +429,10 @@
     ],
     "description": "WHITE SMILING FACE",
     "name": "relaxed",
-    "css": "relaxed",
-    "category": "emotion"
+    "css": "relaxed"
   },
-  "♈": {
-    "emoji": "♈",
+  "♈️": {
+    "emoji": "♈️",
     "platforms": [
       "tw",
       "a",
@@ -473,11 +440,10 @@
     ],
     "description": "ARIES",
     "name": "aries",
-    "css": "aries",
-    "category": "folderol"
+    "css": "aries"
   },
-  "♉": {
-    "emoji": "♉",
+  "♉️": {
+    "emoji": "♉️",
     "platforms": [
       "tw",
       "a",
@@ -485,11 +451,10 @@
     ],
     "description": "TAURUS",
     "name": "taurus",
-    "css": "taurus",
-    "category": "folderol"
+    "css": "taurus"
   },
-  "♊": {
-    "emoji": "♊",
+  "♊️": {
+    "emoji": "♊️",
     "platforms": [
       "tw",
       "a",
@@ -497,11 +462,10 @@
     ],
     "description": "GEMINI",
     "name": "gemini",
-    "css": "gemini",
-    "category": "folderol"
+    "css": "gemini"
   },
-  "♋": {
-    "emoji": "♋",
+  "♋️": {
+    "emoji": "♋️",
     "platforms": [
       "tw",
       "a",
@@ -509,11 +473,10 @@
     ],
     "description": "CANCER",
     "name": "cancer",
-    "css": "cancer",
-    "category": "folderol"
+    "css": "cancer"
   },
-  "♌": {
-    "emoji": "♌",
+  "♌️": {
+    "emoji": "♌️",
     "platforms": [
       "tw",
       "a",
@@ -521,11 +484,10 @@
     ],
     "description": "LEO",
     "name": "leo",
-    "css": "leo",
-    "category": "folderol"
+    "css": "leo"
   },
-  "♍": {
-    "emoji": "♍",
+  "♍️": {
+    "emoji": "♍️",
     "platforms": [
       "tw",
       "a",
@@ -533,11 +495,10 @@
     ],
     "description": "VIRGO",
     "name": "virgo",
-    "css": "virgo",
-    "category": "folderol"
+    "css": "virgo"
   },
-  "♎": {
-    "emoji": "♎",
+  "♎️": {
+    "emoji": "♎️",
     "platforms": [
       "tw",
       "a",
@@ -545,11 +506,10 @@
     ],
     "description": "LIBRA",
     "name": "libra",
-    "css": "libra",
-    "category": "folderol"
+    "css": "libra"
   },
-  "♏": {
-    "emoji": "♏",
+  "♏️": {
+    "emoji": "♏️",
     "platforms": [
       "tw",
       "a",
@@ -557,11 +517,10 @@
     ],
     "description": "SCORPIUS",
     "name": "scorpius",
-    "css": "scorpius",
-    "category": "folderol"
+    "css": "scorpius"
   },
-  "♐": {
-    "emoji": "♐",
+  "♐️": {
+    "emoji": "♐️",
     "platforms": [
       "tw",
       "a",
@@ -569,11 +528,10 @@
     ],
     "description": "SAGITTARIUS",
     "name": "sagittarius",
-    "css": "sagittarius",
-    "category": "folderol"
+    "css": "sagittarius"
   },
-  "♑": {
-    "emoji": "♑",
+  "♑️": {
+    "emoji": "♑️",
     "platforms": [
       "tw",
       "a",
@@ -581,11 +539,10 @@
     ],
     "description": "CAPRICORN",
     "name": "capricorn",
-    "css": "capricorn",
-    "category": "folderol"
+    "css": "capricorn"
   },
-  "♒": {
-    "emoji": "♒",
+  "♒️": {
+    "emoji": "♒️",
     "platforms": [
       "tw",
       "a",
@@ -593,11 +550,10 @@
     ],
     "description": "AQUARIUS",
     "name": "aquarius",
-    "css": "aquarius",
-    "category": "folderol"
+    "css": "aquarius"
   },
-  "♓": {
-    "emoji": "♓",
+  "♓️": {
+    "emoji": "♓️",
     "platforms": [
       "tw",
       "a",
@@ -605,11 +561,10 @@
     ],
     "description": "PISCES",
     "name": "pisces",
-    "css": "pisces",
-    "category": "folderol"
+    "css": "pisces"
   },
-  "♠": {
-    "emoji": "♠",
+  "♠️": {
+    "emoji": "♠️",
     "platforms": [
       "tw",
       "a",
@@ -617,11 +572,10 @@
     ],
     "description": "BLACK SPADE SUIT",
     "name": "spades",
-    "css": "spades",
-    "category": "folderol"
+    "css": "spades"
   },
-  "♣": {
-    "emoji": "♣",
+  "♣️": {
+    "emoji": "♣️",
     "platforms": [
       "tw",
       "a",
@@ -629,11 +583,10 @@
     ],
     "description": "BLACK CLUB SUIT",
     "name": "clubs",
-    "css": "clubs",
-    "category": "folderol"
+    "css": "clubs"
   },
-  "♥": {
-    "emoji": "♥",
+  "♥️": {
+    "emoji": "♥️",
     "platforms": [
       "tw",
       "a",
@@ -641,11 +594,10 @@
     ],
     "description": "BLACK HEART SUIT",
     "name": "hearts",
-    "css": "hearts",
-    "category": "folderol"
+    "css": "hearts"
   },
-  "♦": {
-    "emoji": "♦",
+  "♦️": {
+    "emoji": "♦️",
     "platforms": [
       "tw",
       "a",
@@ -653,11 +605,10 @@
     ],
     "description": "BLACK DIAMOND SUIT",
     "name": "diamonds",
-    "css": "diamonds",
-    "category": "folderol"
+    "css": "diamonds"
   },
-  "♨": {
-    "emoji": "♨",
+  "♨️": {
+    "emoji": "♨️",
     "platforms": [
       "tw",
       "a",
@@ -665,11 +616,10 @@
     ],
     "description": "HOT SPRINGS",
     "name": "hotsprings",
-    "css": "hotsprings",
-    "category": "thing"
+    "css": "hotsprings"
   },
-  "♻": {
-    "emoji": "♻",
+  "♻️": {
+    "emoji": "♻️",
     "platforms": [
       "tw",
       "a",
@@ -677,11 +627,10 @@
     ],
     "description": "BLACK UNIVERSAL RECYCLING SYMBOL",
     "name": "recycle",
-    "css": "recycle",
-    "category": "folderol"
+    "css": "recycle"
   },
-  "♿": {
-    "emoji": "♿",
+  "♿️": {
+    "emoji": "♿️",
     "platforms": [
       "tw",
       "a",
@@ -689,11 +638,10 @@
     ],
     "description": "WHEELCHAIR SYMBOL",
     "name": "wheelchair",
-    "css": "wheelchair",
-    "category": "thing"
+    "css": "wheelchair"
   },
-  "⚓": {
-    "emoji": "⚓",
+  "⚓️": {
+    "emoji": "⚓️",
     "platforms": [
       "tw",
       "a",
@@ -701,11 +649,10 @@
     ],
     "description": "ANCHOR",
     "name": "anchor",
-    "css": "anchor",
-    "category": "thing"
+    "css": "anchor"
   },
-  "⚠": {
-    "emoji": "⚠",
+  "⚠️": {
+    "emoji": "⚠️",
     "platforms": [
       "tw",
       "a",
@@ -713,11 +660,10 @@
     ],
     "description": "WARNING SIGN",
     "name": "warning",
-    "css": "warning",
-    "category": "thing"
+    "css": "warning"
   },
-  "⚡": {
-    "emoji": "⚡",
+  "⚡️": {
+    "emoji": "⚡️",
     "platforms": [
       "tw",
       "a",
@@ -725,11 +671,10 @@
     ],
     "description": "HIGH VOLTAGE SIGN",
     "name": "zap",
-    "css": "zap",
-    "category": "thing"
+    "css": "zap"
   },
-  "⚪": {
-    "emoji": "⚪",
+  "⚪️": {
+    "emoji": "⚪️",
     "platforms": [
       "tw",
       "a",
@@ -737,11 +682,10 @@
     ],
     "description": "MEDIUM WHITE CIRCLE",
     "name": "white_circle",
-    "css": "white_circle",
-    "category": "folderol"
+    "css": "white_circle"
   },
-  "⚫": {
-    "emoji": "⚫",
+  "⚫️": {
+    "emoji": "⚫️",
     "platforms": [
       "tw",
       "a",
@@ -749,11 +693,10 @@
     ],
     "description": "MEDIUM BLACK CIRCLE",
     "name": "black_circle",
-    "css": "black_circle",
-    "category": "folderol"
+    "css": "black_circle"
   },
-  "⚽": {
-    "emoji": "⚽",
+  "⚽️": {
+    "emoji": "⚽️",
     "platforms": [
       "tw",
       "a",
@@ -761,11 +704,10 @@
     ],
     "description": "SOCCER BALL",
     "name": "soccer",
-    "css": "soccer",
-    "category": "thing"
+    "css": "soccer"
   },
-  "⚾": {
-    "emoji": "⚾",
+  "⚾️": {
+    "emoji": "⚾️",
     "platforms": [
       "tw",
       "a",
@@ -773,11 +715,10 @@
     ],
     "description": "BASEBALL",
     "name": "baseball",
-    "css": "baseball",
-    "category": "thing"
+    "css": "baseball"
   },
-  "⛄": {
-    "emoji": "⛄",
+  "⛄️": {
+    "emoji": "⛄️",
     "platforms": [
       "tw",
       "a",
@@ -785,11 +726,10 @@
     ],
     "description": "SNOWMAN WITHOUT SNOW",
     "name": "snowman",
-    "css": "snowman",
-    "category": "thing"
+    "css": "snowman"
   },
-  "⛅": {
-    "emoji": "⛅",
+  "⛅️": {
+    "emoji": "⛅️",
     "platforms": [
       "tw",
       "a",
@@ -797,8 +737,7 @@
     ],
     "description": "SUN BEHIND CLOUD",
     "name": "partly_sunny",
-    "css": "partly_sunny",
-    "category": "thing"
+    "css": "partly_sunny"
   },
   "⛎": {
     "emoji": "⛎",
@@ -812,8 +751,8 @@
     "css": "ophiuchus",
     "category": "folderol"
   },
-  "⛔": {
-    "emoji": "⛔",
+  "⛔️": {
+    "emoji": "⛔️",
     "platforms": [
       "tw",
       "a",
@@ -821,11 +760,10 @@
     ],
     "description": "NO ENTRY",
     "name": "no_entry",
-    "css": "no_entry",
-    "category": "folderol"
+    "css": "no_entry"
   },
-  "⛪": {
-    "emoji": "⛪",
+  "⛪️": {
+    "emoji": "⛪️",
     "platforms": [
       "tw",
       "a",
@@ -833,11 +771,10 @@
     ],
     "description": "CHURCH",
     "name": "church",
-    "css": "church",
-    "category": "travel"
+    "css": "church"
   },
-  "⛲": {
-    "emoji": "⛲",
+  "⛲️": {
+    "emoji": "⛲️",
     "platforms": [
       "tw",
       "a",
@@ -845,11 +782,10 @@
     ],
     "description": "FOUNTAIN",
     "name": "fountain",
-    "css": "fountain",
-    "category": "travel"
+    "css": "fountain"
   },
-  "⛳": {
-    "emoji": "⛳",
+  "⛳️": {
+    "emoji": "⛳️",
     "platforms": [
       "tw",
       "a",
@@ -857,11 +793,10 @@
     ],
     "description": "FLAG IN HOLE",
     "name": "golf",
-    "css": "golf",
-    "category": "travel"
+    "css": "golf"
   },
-  "⛵": {
-    "emoji": "⛵",
+  "⛵️": {
+    "emoji": "⛵️",
     "platforms": [
       "tw",
       "a",
@@ -869,11 +804,10 @@
     ],
     "description": "SAILBOAT",
     "name": "boat",
-    "css": "boat",
-    "category": "travel"
+    "css": "boat"
   },
-  "⛺": {
-    "emoji": "⛺",
+  "⛺️": {
+    "emoji": "⛺️",
     "platforms": [
       "tw",
       "a",
@@ -881,11 +815,10 @@
     ],
     "description": "TENT",
     "name": "tent",
-    "css": "tent",
-    "category": "travel"
+    "css": "tent"
   },
-  "⛽": {
-    "emoji": "⛽",
+  "⛽️": {
+    "emoji": "⛽️",
     "platforms": [
       "tw",
       "a",
@@ -893,11 +826,10 @@
     ],
     "description": "FUEL PUMP",
     "name": "fuelpump",
-    "css": "fuelpump",
-    "category": "travel"
+    "css": "fuelpump"
   },
-  "✂": {
-    "emoji": "✂",
+  "✂️": {
+    "emoji": "✂️",
     "platforms": [
       "tw",
       "a",
@@ -905,8 +837,7 @@
     ],
     "description": "BLACK SCISSORS",
     "name": "scissors",
-    "css": "scissors",
-    "category": "thing"
+    "css": "scissors"
   },
   "✅": {
     "emoji": "✅",
@@ -920,8 +851,8 @@
     "css": "white_check_mark",
     "category": "folderol"
   },
-  "✈": {
-    "emoji": "✈",
+  "✈️": {
+    "emoji": "✈️",
     "platforms": [
       "tw",
       "a",
@@ -929,11 +860,10 @@
     ],
     "description": "AIRPLANE",
     "name": "airplane",
-    "css": "airplane",
-    "category": "thing"
+    "css": "airplane"
   },
-  "✉": {
-    "emoji": "✉",
+  "✉️": {
+    "emoji": "✉️",
     "platforms": [
       "tw",
       "a",
@@ -941,8 +871,7 @@
     ],
     "description": "ENVELOPE",
     "name": "email",
-    "css": "email",
-    "category": "thing"
+    "css": "email"
   },
   "✊": {
     "emoji": "✊",
@@ -968,8 +897,8 @@
     "css": "hand",
     "category": "people"
   },
-  "✌": {
-    "emoji": "✌",
+  "✌️": {
+    "emoji": "✌️",
     "platforms": [
       "tw",
       "a",
@@ -977,11 +906,10 @@
     ],
     "description": "VICTORY HAND",
     "name": "v",
-    "css": "v",
-    "category": "folderol"
+    "css": "v"
   },
-  "✏": {
-    "emoji": "✏",
+  "✏️": {
+    "emoji": "✏️",
     "platforms": [
       "tw",
       "a",
@@ -989,11 +917,10 @@
     ],
     "description": "PENCIL",
     "name": "pencil2",
-    "css": "pencil2",
-    "category": "thing"
+    "css": "pencil2"
   },
-  "✒": {
-    "emoji": "✒",
+  "✒️": {
+    "emoji": "✒️",
     "platforms": [
       "tw",
       "a",
@@ -1001,11 +928,10 @@
     ],
     "description": "BLACK NIB",
     "name": "black_nib",
-    "css": "black_nib",
-    "category": "folderol"
+    "css": "black_nib"
   },
-  "✔": {
-    "emoji": "✔",
+  "✔️": {
+    "emoji": "✔️",
     "platforms": [
       "tw",
       "a",
@@ -1013,11 +939,10 @@
     ],
     "description": "HEAVY CHECK MARK",
     "name": "heavy_check_mark",
-    "css": "heavy_check_mark",
-    "category": "folderol"
+    "css": "heavy_check_mark"
   },
-  "✖": {
-    "emoji": "✖",
+  "✖️": {
+    "emoji": "✖️",
     "platforms": [
       "tw",
       "a",
@@ -1025,8 +950,7 @@
     ],
     "description": "HEAVY MULTIPLICATION X",
     "name": "heavy_multiplication_x",
-    "css": "heavy_multiplication_x",
-    "category": "folderol"
+    "css": "heavy_multiplication_x"
   },
   "✨": {
     "emoji": "✨",
@@ -1040,8 +964,8 @@
     "css": "sparkles",
     "category": "folderol"
   },
-  "✳": {
-    "emoji": "✳",
+  "✳️": {
+    "emoji": "✳️",
     "platforms": [
       "tw",
       "a",
@@ -1049,11 +973,10 @@
     ],
     "description": "EIGHT SPOKED ASTERISK",
     "name": "eight_spoked_asterisk",
-    "css": "eight_spoked_asterisk",
-    "category": "folderol"
+    "css": "eight_spoked_asterisk"
   },
-  "✴": {
-    "emoji": "✴",
+  "✴️": {
+    "emoji": "✴️",
     "platforms": [
       "tw",
       "a",
@@ -1061,11 +984,10 @@
     ],
     "description": "EIGHT POINTED BLACK STAR",
     "name": "eight_pointed_black_star",
-    "css": "eight_pointed_black_star",
-    "category": "folderol"
+    "css": "eight_pointed_black_star"
   },
-  "❄": {
-    "emoji": "❄",
+  "❄️": {
+    "emoji": "❄️",
     "platforms": [
       "tw",
       "a",
@@ -1073,11 +995,10 @@
     ],
     "description": "SNOWFLAKE",
     "name": "snowflake",
-    "css": "snowflake",
-    "category": "thing"
+    "css": "snowflake"
   },
-  "❇": {
-    "emoji": "❇",
+  "❇️": {
+    "emoji": "❇️",
     "platforms": [
       "tw",
       "a",
@@ -1085,8 +1006,7 @@
     ],
     "description": "SPARKLE",
     "name": "sparkle",
-    "css": "sparkle",
-    "category": "thing"
+    "css": "sparkle"
   },
   "❌": {
     "emoji": "❌",
@@ -1148,8 +1068,8 @@
     "css": "grey_exclamation",
     "category": "folderol"
   },
-  "❗": {
-    "emoji": "❗",
+  "❗️": {
+    "emoji": "❗️",
     "platforms": [
       "tw",
       "a",
@@ -1157,11 +1077,10 @@
     ],
     "description": "HEAVY EXCLAMATION MARK SYMBOL",
     "name": "exclamation",
-    "css": "exclamation",
-    "category": "folderol"
+    "css": "exclamation"
   },
-  "❤": {
-    "emoji": "❤",
+  "❤️": {
+    "emoji": "❤️",
     "platforms": [
       "tw",
       "a",
@@ -1169,8 +1088,7 @@
     ],
     "description": "HEAVY BLACK HEART",
     "name": "heart",
-    "css": "heart",
-    "category": "folderol"
+    "css": "heart"
   },
   "➕": {
     "emoji": "➕",
@@ -1208,8 +1126,8 @@
     "css": "heavy_division_sign",
     "category": "folderol"
   },
-  "➡": {
-    "emoji": "➡",
+  "➡️": {
+    "emoji": "➡️",
     "platforms": [
       "tw",
       "a",
@@ -1217,8 +1135,7 @@
     ],
     "description": "BLACK RIGHTWARDS ARROW",
     "name": "arrow_right",
-    "css": "arrow_right",
-    "category": "folderol"
+    "css": "arrow_right"
   },
   "➰": {
     "emoji": "➰",
@@ -1244,8 +1161,8 @@
     "css": "loop",
     "category": "folderol"
   },
-  "⤴": {
-    "emoji": "⤴",
+  "⤴️": {
+    "emoji": "⤴️",
     "platforms": [
       "tw",
       "a",
@@ -1253,11 +1170,10 @@
     ],
     "description": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS",
     "name": "arrow_heading_up",
-    "css": "arrow_heading_up",
-    "category": "folderol"
+    "css": "arrow_heading_up"
   },
-  "⤵": {
-    "emoji": "⤵",
+  "⤵️": {
+    "emoji": "⤵️",
     "platforms": [
       "tw",
       "a",
@@ -1265,11 +1181,10 @@
     ],
     "description": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS",
     "name": "arrow_heading_down",
-    "css": "arrow_heading_down",
-    "category": "folderol"
+    "css": "arrow_heading_down"
   },
-  "⬅": {
-    "emoji": "⬅",
+  "⬅️": {
+    "emoji": "⬅️",
     "platforms": [
       "tw",
       "a",
@@ -1277,11 +1192,10 @@
     ],
     "description": "LEFTWARDS BLACK ARROW",
     "name": "arrow_left",
-    "css": "arrow_left",
-    "category": "folderol"
+    "css": "arrow_left"
   },
-  "⬆": {
-    "emoji": "⬆",
+  "⬆️": {
+    "emoji": "⬆️",
     "platforms": [
       "tw",
       "a",
@@ -1289,11 +1203,10 @@
     ],
     "description": "UPWARDS BLACK ARROW",
     "name": "arrow_up",
-    "css": "arrow_up",
-    "category": "folderol"
+    "css": "arrow_up"
   },
-  "⬇": {
-    "emoji": "⬇",
+  "⬇️": {
+    "emoji": "⬇️",
     "platforms": [
       "tw",
       "a",
@@ -1301,11 +1214,10 @@
     ],
     "description": "DOWNWARDS BLACK ARROW",
     "name": "arrow_down",
-    "css": "arrow_down",
-    "category": "folderol"
+    "css": "arrow_down"
   },
-  "⬛": {
-    "emoji": "⬛",
+  "⬛️": {
+    "emoji": "⬛️",
     "platforms": [
       "tw",
       "a",
@@ -1313,11 +1225,10 @@
     ],
     "description": "BLACK LARGE SQUARE",
     "name": "black_large_square",
-    "css": "black_large_square",
-    "category": "folderol"
+    "css": "black_large_square"
   },
-  "⬜": {
-    "emoji": "⬜",
+  "⬜️": {
+    "emoji": "⬜️",
     "platforms": [
       "tw",
       "a",
@@ -1325,11 +1236,10 @@
     ],
     "description": "WHITE LARGE SQUARE",
     "name": "white_large_square",
-    "css": "white_large_square",
-    "category": "folderol"
+    "css": "white_large_square"
   },
-  "⭐": {
-    "emoji": "⭐",
+  "⭐️": {
+    "emoji": "⭐️",
     "platforms": [
       "tw",
       "a",
@@ -1337,11 +1247,10 @@
     ],
     "description": "WHITE MEDIUM STAR",
     "name": "star",
-    "css": "star",
-    "category": "thing"
+    "css": "star"
   },
-  "⭕": {
-    "emoji": "⭕",
+  "⭕️": {
+    "emoji": "⭕️",
     "platforms": [
       "tw",
       "a",
@@ -1349,11 +1258,10 @@
     ],
     "description": "HEAVY LARGE CIRCLE",
     "name": "o",
-    "css": "o",
-    "category": "folderol"
+    "css": "o"
   },
-  "〰": {
-    "emoji": "〰",
+  "〰️": {
+    "emoji": "〰️",
     "platforms": [
       "tw",
       "a",
@@ -1361,11 +1269,10 @@
     ],
     "description": "WAVY DASH",
     "name": "wavy_dash",
-    "css": "wavy_dash",
-    "category": "folderol"
+    "css": "wavy_dash"
   },
-  "〽": {
-    "emoji": "〽",
+  "〽️": {
+    "emoji": "〽️",
     "platforms": [
       "tw",
       "a",
@@ -1373,11 +1280,10 @@
     ],
     "description": "PART ALTERNATION MARK",
     "name": "part_alternation_mark",
-    "css": "part_alternation_mark",
-    "category": "folderol"
+    "css": "part_alternation_mark"
   },
-  "㊗": {
-    "emoji": "㊗",
+  "㊗️": {
+    "emoji": "㊗️",
     "platforms": [
       "tw",
       "a",
@@ -1385,11 +1291,10 @@
     ],
     "description": "CIRCLED IDEOGRAPH CONGRATULATION",
     "name": "congratulations",
-    "css": "congratulations",
-    "category": "folderol"
+    "css": "congratulations"
   },
-  "㊙": {
-    "emoji": "㊙",
+  "㊙️": {
+    "emoji": "㊙️",
     "platforms": [
       "tw",
       "a",
@@ -1397,11 +1302,10 @@
     ],
     "description": "CIRCLED IDEOGRAPH SECRET",
     "name": "secret",
-    "css": "secret",
-    "category": "folderol"
+    "css": "secret"
   },
-  "🀄": {
-    "emoji": "🀄",
+  "🀄️": {
+    "emoji": "🀄️",
     "platforms": [
       "tw",
       "a",
@@ -1409,8 +1313,7 @@
     ],
     "description": "MAHJONG TILE RED DRAGON",
     "name": "mahjong",
-    "css": "mahjong",
-    "category": "folderol"
+    "css": "mahjong"
   },
   "🃏": {
     "emoji": "🃏",
@@ -1424,8 +1327,8 @@
     "css": "black_joker",
     "category": "folderol"
   },
-  "🅰": {
-    "emoji": "🅰",
+  "🅰️": {
+    "emoji": "🅰️",
     "platforms": [
       "tw",
       "a",
@@ -1433,11 +1336,10 @@
     ],
     "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER A",
     "name": "a",
-    "css": "a",
-    "category": "folderol"
+    "css": "a"
   },
-  "🅱": {
-    "emoji": "🅱",
+  "🅱️": {
+    "emoji": "🅱️",
     "platforms": [
       "tw",
       "a",
@@ -1445,11 +1347,10 @@
     ],
     "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER B",
     "name": "b",
-    "css": "b",
-    "category": "folderol"
+    "css": "b"
   },
-  "🅾": {
-    "emoji": "🅾",
+  "🅾️": {
+    "emoji": "🅾️",
     "platforms": [
       "tw",
       "a",
@@ -1457,11 +1358,10 @@
     ],
     "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER O",
     "name": "o2",
-    "css": "o2",
-    "category": "folderol"
+    "css": "o2"
   },
-  "🅿": {
-    "emoji": "🅿",
+  "🅿️": {
+    "emoji": "🅿️",
     "platforms": [
       "tw",
       "a",
@@ -1469,8 +1369,7 @@
     ],
     "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER P",
     "name": "parking",
-    "css": "parking",
-    "category": "folderol"
+    "css": "parking"
   },
   "🆎": {
     "emoji": "🆎",
@@ -1616,8 +1515,8 @@
     "css": "koko",
     "category": "folderol"
   },
-  "🈂": {
-    "emoji": "🈂",
+  "🈂️": {
+    "emoji": "🈂️",
     "platforms": [
       "tw",
       "a",
@@ -1625,11 +1524,10 @@
     ],
     "description": "SQUARED KATAKANA SA",
     "name": "sa",
-    "css": "sa",
-    "category": "folderol"
+    "css": "sa"
   },
-  "🈚": {
-    "emoji": "🈚",
+  "🈚️": {
+    "emoji": "🈚️",
     "platforms": [
       "tw",
       "a",
@@ -1637,11 +1535,10 @@
     ],
     "description": "SQUARED CJK UNIFIED IDEOGRAPH-7121",
     "name": "u7121",
-    "css": "u7121",
-    "category": "folderol"
+    "css": "u7121"
   },
-  "🈯": {
-    "emoji": "🈯",
+  "🈯️": {
+    "emoji": "🈯️",
     "platforms": [
       "tw",
       "a",
@@ -1649,8 +1546,7 @@
     ],
     "description": "SQUARED CJK UNIFIED IDEOGRAPH-6307",
     "name": "u6307",
-    "css": "u6307",
-    "category": "folderol"
+    "css": "u6307"
   },
   "🈲": {
     "emoji": "🈲",
@@ -1712,8 +1608,8 @@
     "css": "u6709",
     "category": "folderol"
   },
-  "🈷": {
-    "emoji": "🈷",
+  "🈷️": {
+    "emoji": "🈷️",
     "platforms": [
       "tw",
       "a",
@@ -1721,8 +1617,7 @@
     ],
     "description": "SQUARED CJK UNIFIED IDEOGRAPH-6708",
     "name": "u6708",
-    "css": "u6708",
-    "category": "folderol"
+    "css": "u6708"
   },
   "🈸": {
     "emoji": "🈸",
@@ -9919,8 +9814,8 @@
     "css": "left_luggage",
     "category": "travel"
   },
-  "#⃣": {
-    "emoji": "#⃣",
+  "#️⃣": {
+    "emoji": "#️⃣",
     "platforms": [
       "tw",
       "a",
@@ -9928,11 +9823,10 @@
     ],
     "description": "HASH KEY",
     "name": "hash",
-    "css": "hash",
-    "category": "folderol"
+    "css": "hash"
   },
-  "0⃣": {
-    "emoji": "0⃣",
+  "0️⃣": {
+    "emoji": "0️⃣",
     "platforms": [
       "tw",
       "a",
@@ -9940,11 +9834,10 @@
     ],
     "description": "KEYCAP 0",
     "name": "zero",
-    "css": "zero",
-    "category": "folderol"
+    "css": "zero"
   },
-  "1⃣": {
-    "emoji": "1⃣",
+  "1️⃣": {
+    "emoji": "1️⃣",
     "platforms": [
       "tw",
       "a",
@@ -9952,11 +9845,10 @@
     ],
     "description": "KEYCAP 1",
     "name": "one",
-    "css": "one",
-    "category": "folderol"
+    "css": "one"
   },
-  "2⃣": {
-    "emoji": "2⃣",
+  "2️⃣": {
+    "emoji": "2️⃣",
     "platforms": [
       "tw",
       "a",
@@ -9964,11 +9856,10 @@
     ],
     "description": "KEYCAP 2",
     "name": "two",
-    "css": "two",
-    "category": "folderol"
+    "css": "two"
   },
-  "3⃣": {
-    "emoji": "3⃣",
+  "3️⃣": {
+    "emoji": "3️⃣",
     "platforms": [
       "tw",
       "a",
@@ -9976,11 +9867,10 @@
     ],
     "description": "KEYCAP 3",
     "name": "three",
-    "css": "three",
-    "category": "folderol"
+    "css": "three"
   },
-  "4⃣": {
-    "emoji": "4⃣",
+  "4️⃣": {
+    "emoji": "4️⃣",
     "platforms": [
       "tw",
       "a",
@@ -9988,11 +9878,10 @@
     ],
     "description": "KEYCAP 4",
     "name": "four",
-    "css": "four",
-    "category": "folderol"
+    "css": "four"
   },
-  "5⃣": {
-    "emoji": "5⃣",
+  "5️⃣": {
+    "emoji": "5️⃣",
     "platforms": [
       "tw",
       "a",
@@ -10000,11 +9889,10 @@
     ],
     "description": "KEYCAP 5",
     "name": "five",
-    "css": "five",
-    "category": "folderol"
+    "css": "five"
   },
-  "6⃣": {
-    "emoji": "6⃣",
+  "6️⃣": {
+    "emoji": "6️⃣",
     "platforms": [
       "tw",
       "a",
@@ -10012,11 +9900,10 @@
     ],
     "description": "KEYCAP 6",
     "name": "six",
-    "css": "six",
-    "category": "folderol"
+    "css": "six"
   },
-  "7⃣": {
-    "emoji": "7⃣",
+  "7️⃣": {
+    "emoji": "7️⃣",
     "platforms": [
       "tw",
       "a",
@@ -10024,11 +9911,10 @@
     ],
     "description": "KEYCAP 7",
     "name": "seven",
-    "css": "seven",
-    "category": "folderol"
+    "css": "seven"
   },
-  "8⃣": {
-    "emoji": "8⃣",
+  "8️⃣": {
+    "emoji": "8️⃣",
     "platforms": [
       "tw",
       "a",
@@ -10036,11 +9922,10 @@
     ],
     "description": "KEYCAP 8",
     "name": "eight",
-    "css": "eight",
-    "category": "folderol"
+    "css": "eight"
   },
-  "9⃣": {
-    "emoji": "9⃣",
+  "9️⃣": {
+    "emoji": "9️⃣",
     "platforms": [
       "tw",
       "a",
@@ -10048,8 +9933,7 @@
     ],
     "description": "KEYCAP 9",
     "name": "nine",
-    "css": "nine",
-    "category": "folderol"
+    "css": "nine"
   },
   "🇦🇪": {
     "emoji": "🇦🇪",

@@ -36,15 +36,17 @@ function generateAssetsFor(emojis, categories, platform, platformCode) {
 
     if ( emoji.name && imagePath ) {
 
-      platformAvailability[ emoji.unified ] = platformAvailability[ emoji.unified ] || []
-      platformAvailability[ emoji.unified ].push( platformCode )
+      var unicode = emoji.variations.length > 0 ? emoji.variations[0] : emoji.unified
+
+      platformAvailability[ unicode ] = platformAvailability[ unicode ] || []
+      platformAvailability[ unicode ].push( platformCode )
 
       var jsonData = {
         name: emoji.short_name,
-        unicode: emoji.unified,
+        unicode: unicode,
         shortcode: cssIfyName(emoji.short_name),
         description: emoji.name,
-        category: categories[ emoji.unified ]
+        category: categories[ unicode ] || categories[ emoji.unified ]
       }
 
       // json data
@@ -92,14 +94,15 @@ function generateData( emojis, categories ) {
   var json = {}
   for ( i in emojis ) {
     var emoji = emojis[i]
-    var utf8 = toUTF8( emoji.unified )
+    var unicode = emoji.variations.length > 0 ? emoji.variations[0] : emoji.unified
+    var utf8 = toUTF8( unicode )
     json[ utf8 ] = {
       emoji: utf8,
-      platforms: platformAvailability[ emoji.unified ],
+      platforms: platformAvailability[ unicode ],
       description: emoji.name,
       name: emoji.short_name,
       css: cssIfyName( emoji.short_name ),
-      category: categories[ emoji.unified ]
+      category: categories[ unicode ]
     }
   }
   jf.writeFile('lib/wemoji.json', json, function(err) {
