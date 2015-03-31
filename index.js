@@ -6,7 +6,5 @@ for ( emoji in unicode ) {
   name[ data.name ] = data
 }
 
-exports = {
-  unicode: unicode,
-  name: name
-}
+exports.unicode = unicode
+exports.name = name
