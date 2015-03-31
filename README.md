@@ -70,7 +70,7 @@ Just include the ```emoji.css``` and one of ```wemoji-tw.css```, ```wemoji-g.css
 The markup that we use with this css is:
 
 ```html
-  <span class="emoji emoji-love_hotel">LOVE HOTEL</span>
+<span class="emoji emoji-love_hotel">LOVE HOTEL</span>
 ```
 
 You can create the proper CSS class name by prepending ```emoji-``` to the 'css' field of wemoji. If you use [emoji-text](https://www.npmjs.com/package/emoji-text), you can do that easily like this:
