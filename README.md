@@ -101,7 +101,7 @@ $ grunt build
 
 ## Why?
 
-When we decided to write emoji support into our platform we were inspired by lots of great projects such as [twemoji](https://github.com/twitter/twemoji), [emojify](https://github.com/hassankhan/emojify.js), and [emoji-data](https://github.com/iamcal/emoji-data). If we put them together, we could have a complete front and back end solution. But there was one little problem - there were slight differences in each platform that made them hard to combine without a lot of little hacks.
+When we decided to write emoji support into our platform we were inspired by lots of great projects such as [twemoji](https://github.com/twitter/twemoji), [emojify](https://github.com/hassankhan/emojify.js), and [emoji-data](https://github.com/iamcal/emoji-data). If we put them together, we could have a complete front and back end solution. But there was one little problem - there were slight differences in each platform that made them hard to combine without a lot of little hacks. We also wanted to support a universal set of emoji that had glyphs not in github, so [gemoji](https://www.npmjs.com/package/gemoji) was out.
 
 We looked at each and decided that emoji-data had the nicest and most complete data, so that is what we decided to start with and build out everything else we needed:
 
