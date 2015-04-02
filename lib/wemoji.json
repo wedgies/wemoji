@@ -7,7 +7,10 @@
     ],
     "description": "COPYRIGHT SIGN",
     "name": "copyright",
-    "css": "copyright"
+    "css": "copyright",
+    "variations": [
+      "©"
+    ]
   },
   "®️": {
     "emoji": "®️",
@@ -17,7 +20,10 @@
     ],
     "description": "REGISTERED SIGN",
     "name": "registered",
-    "css": "registered"
+    "css": "registered",
+    "variations": [
+      "®"
+    ]
   },
   "‼️": {
     "emoji": "‼️",
@@ -28,7 +34,10 @@
     ],
     "description": "DOUBLE EXCLAMATION MARK",
     "name": "bangbang",
-    "css": "bangbang"
+    "css": "bangbang",
+    "variations": [
+      "‼"
+    ]
   },
   "⁉️": {
     "emoji": "⁉️",
@@ -39,7 +48,10 @@
     ],
     "description": "EXCLAMATION QUESTION MARK",
     "name": "interrobang",
-    "css": "interrobang"
+    "css": "interrobang",
+    "variations": [
+      "⁉"
+    ]
   },
   "™️": {
     "emoji": "™️",
@@ -50,7 +62,10 @@
     ],
     "description": "TRADE MARK SIGN",
     "name": "tm",
-    "css": "tm"
+    "css": "tm",
+    "variations": [
+      "™"
+    ]
   },
   "ℹ️": {
     "emoji": "ℹ️",
@@ -61,7 +76,10 @@
     ],
     "description": "INFORMATION SOURCE",
     "name": "information_source",
-    "css": "information_source"
+    "css": "information_source",
+    "variations": [
+      "ℹ"
+    ]
   },
   "↔️": {
     "emoji": "↔️",
@@ -72,7 +90,10 @@
     ],
     "description": "LEFT RIGHT ARROW",
     "name": "left_right_arrow",
-    "css": "left_right_arrow"
+    "css": "left_right_arrow",
+    "variations": [
+      "↔"
+    ]
   },
   "↕️": {
     "emoji": "↕️",
@@ -83,7 +104,10 @@
     ],
     "description": "UP DOWN ARROW",
     "name": "arrow_up_down",
-    "css": "arrow_up_down"
+    "css": "arrow_up_down",
+    "variations": [
+      "↕"
+    ]
   },
   "↖️": {
     "emoji": "↖️",
@@ -94,7 +118,10 @@
     ],
     "description": "NORTH WEST ARROW",
     "name": "arrow_upper_left",
-    "css": "arrow_upper_left"
+    "css": "arrow_upper_left",
+    "variations": [
+      "↖"
+    ]
   },
   "↗️": {
     "emoji": "↗️",
@@ -105,7 +132,10 @@
     ],
     "description": "NORTH EAST ARROW",
     "name": "arrow_upper_right",
-    "css": "arrow_upper_right"
+    "css": "arrow_upper_right",
+    "variations": [
+      "↗"
+    ]
   },
   "↘️": {
     "emoji": "↘️",
@@ -116,7 +146,10 @@
     ],
     "description": "SOUTH EAST ARROW",
     "name": "arrow_lower_right",
-    "css": "arrow_lower_right"
+    "css": "arrow_lower_right",
+    "variations": [
+      "↘"
+    ]
   },
   "↙️": {
     "emoji": "↙️",
@@ -127,7 +160,10 @@
     ],
     "description": "SOUTH WEST ARROW",
     "name": "arrow_lower_left",
-    "css": "arrow_lower_left"
+    "css": "arrow_lower_left",
+    "variations": [
+      "↙"
+    ]
   },
   "↩️": {
     "emoji": "↩️",
@@ -138,7 +174,10 @@
     ],
     "description": "LEFTWARDS ARROW WITH HOOK",
     "name": "leftwards_arrow_with_hook",
-    "css": "leftwards_arrow_with_hook"
+    "css": "leftwards_arrow_with_hook",
+    "variations": [
+      "↩"
+    ]
   },
   "↪️": {
     "emoji": "↪️",
@@ -149,7 +188,10 @@
     ],
     "description": "RIGHTWARDS ARROW WITH HOOK",
     "name": "arrow_right_hook",
-    "css": "arrow_right_hook"
+    "css": "arrow_right_hook",
+    "variations": [
+      "↪"
+    ]
   },
   "⌚️": {
     "emoji": "⌚️",
@@ -160,7 +202,10 @@
     ],
     "description": "WATCH",
     "name": "watch",
-    "css": "watch"
+    "css": "watch",
+    "variations": [
+      "⌚"
+    ]
   },
   "⌛️": {
     "emoji": "⌛️",
@@ -171,7 +216,10 @@
     ],
     "description": "HOURGLASS",
     "name": "hourglass",
-    "css": "hourglass"
+    "css": "hourglass",
+    "variations": [
+      "⌛"
+    ]
   },
   "⏩": {
     "emoji": "⏩",
@@ -253,7 +301,10 @@
     ],
     "description": "CIRCLED LATIN CAPITAL LETTER M",
     "name": "m",
-    "css": "m"
+    "css": "m",
+    "variations": [
+      "Ⓜ"
+    ]
   },
   "▪️": {
     "emoji": "▪️",
@@ -264,7 +315,10 @@
     ],
     "description": "BLACK SMALL SQUARE",
     "name": "black_small_square",
-    "css": "black_small_square"
+    "css": "black_small_square",
+    "variations": [
+      "▪"
+    ]
   },
   "▫️": {
     "emoji": "▫️",
@@ -275,7 +329,10 @@
     ],
     "description": "WHITE SMALL SQUARE",
     "name": "white_small_square",
-    "css": "white_small_square"
+    "css": "white_small_square",
+    "variations": [
+      "▫"
+    ]
   },
   "▶️": {
     "emoji": "▶️",
@@ -286,7 +343,10 @@
     ],
     "description": "BLACK RIGHT-POINTING TRIANGLE",
     "name": "arrow_forward",
-    "css": "arrow_forward"
+    "css": "arrow_forward",
+    "variations": [
+      "▶"
+    ]
   },
   "◀️": {
     "emoji": "◀️",
@@ -297,7 +357,10 @@
     ],
     "description": "BLACK LEFT-POINTING TRIANGLE",
     "name": "arrow_backward",
-    "css": "arrow_backward"
+    "css": "arrow_backward",
+    "variations": [
+      "◀"
+    ]
   },
   "◻️": {
     "emoji": "◻️",
@@ -308,7 +371,10 @@
     ],
     "description": "WHITE MEDIUM SQUARE",
     "name": "white_medium_square",
-    "css": "white_medium_square"
+    "css": "white_medium_square",
+    "variations": [
+      "◻"
+    ]
   },
   "◼️": {
     "emoji": "◼️",
@@ -319,7 +385,10 @@
     ],
     "description": "BLACK MEDIUM SQUARE",
     "name": "black_medium_square",
-    "css": "black_medium_square"
+    "css": "black_medium_square",
+    "variations": [
+      "◼"
+    ]
   },
   "◽️": {
     "emoji": "◽️",
@@ -330,7 +399,10 @@
     ],
     "description": "WHITE MEDIUM SMALL SQUARE",
     "name": "white_medium_small_square",
-    "css": "white_medium_small_square"
+    "css": "white_medium_small_square",
+    "variations": [
+      "◽"
+    ]
   },
   "◾️": {
     "emoji": "◾️",
@@ -341,7 +413,10 @@
     ],
     "description": "BLACK MEDIUM SMALL SQUARE",
     "name": "black_medium_small_square",
-    "css": "black_medium_small_square"
+    "css": "black_medium_small_square",
+    "variations": [
+      "◾"
+    ]
   },
   "☀️": {
     "emoji": "☀️",
@@ -352,7 +427,10 @@
     ],
     "description": "BLACK SUN WITH RAYS",
     "name": "sunny",
-    "css": "sunny"
+    "css": "sunny",
+    "variations": [
+      "☀"
+    ]
   },
   "☁️": {
     "emoji": "☁️",
@@ -363,7 +441,10 @@
     ],
     "description": "CLOUD",
     "name": "cloud",
-    "css": "cloud"
+    "css": "cloud",
+    "variations": [
+      "☁"
+    ]
   },
   "☎️": {
     "emoji": "☎️",
@@ -374,7 +455,10 @@
     ],
     "description": "BLACK TELEPHONE",
     "name": "phone",
-    "css": "phone"
+    "css": "phone",
+    "variations": [
+      "☎"
+    ]
   },
   "☑️": {
     "emoji": "☑️",
@@ -385,7 +469,10 @@
     ],
     "description": "BALLOT BOX WITH CHECK",
     "name": "ballot_box_with_check",
-    "css": "ballot_box_with_check"
+    "css": "ballot_box_with_check",
+    "variations": [
+      "☑"
+    ]
   },
   "☔️": {
     "emoji": "☔️",
@@ -396,7 +483,10 @@
     ],
     "description": "UMBRELLA WITH RAIN DROPS",
     "name": "umbrella",
-    "css": "umbrella"
+    "css": "umbrella",
+    "variations": [
+      "☔"
+    ]
   },
   "☕️": {
     "emoji": "☕️",
@@ -407,7 +497,10 @@
     ],
     "description": "HOT BEVERAGE",
     "name": "coffee",
-    "css": "coffee"
+    "css": "coffee",
+    "variations": [
+      "☕"
+    ]
   },
   "☝️": {
     "emoji": "☝️",
@@ -418,7 +511,10 @@
     ],
     "description": "WHITE UP POINTING INDEX",
     "name": "point_up",
-    "css": "point_up"
+    "css": "point_up",
+    "variations": [
+      "☝"
+    ]
   },
   "☺️": {
     "emoji": "☺️",
@@ -429,7 +525,10 @@
     ],
     "description": "WHITE SMILING FACE",
     "name": "relaxed",
-    "css": "relaxed"
+    "css": "relaxed",
+    "variations": [
+      "☺"
+    ]
   },
   "♈️": {
     "emoji": "♈️",
@@ -440,7 +539,10 @@
     ],
     "description": "ARIES",
     "name": "aries",
-    "css": "aries"
+    "css": "aries",
+    "variations": [
+      "♈"
+    ]
   },
   "♉️": {
     "emoji": "♉️",
@@ -451,7 +553,10 @@
     ],
     "description": "TAURUS",
     "name": "taurus",
-    "css": "taurus"
+    "css": "taurus",
+    "variations": [
+      "♉"
+    ]
   },
   "♊️": {
     "emoji": "♊️",
@@ -462,7 +567,10 @@
     ],
     "description": "GEMINI",
     "name": "gemini",
-    "css": "gemini"
+    "css": "gemini",
+    "variations": [
+      "♊"
+    ]
   },
   "♋️": {
     "emoji": "♋️",
@@ -473,7 +581,10 @@
     ],
     "description": "CANCER",
     "name": "cancer",
-    "css": "cancer"
+    "css": "cancer",
+    "variations": [
+      "♋"
+    ]
   },
   "♌️": {
     "emoji": "♌️",
@@ -484,7 +595,10 @@
     ],
     "description": "LEO",
     "name": "leo",
-    "css": "leo"
+    "css": "leo",
+    "variations": [
+      "♌"
+    ]
   },
   "♍️": {
     "emoji": "♍️",
@@ -495,7 +609,10 @@
     ],
     "description": "VIRGO",
     "name": "virgo",
-    "css": "virgo"
+    "css": "virgo",
+    "variations": [
+      "♍"
+    ]
   },
   "♎️": {
     "emoji": "♎️",
@@ -506,7 +623,10 @@
     ],
     "description": "LIBRA",
     "name": "libra",
-    "css": "libra"
+    "css": "libra",
+    "variations": [
+      "♎"
+    ]
   },
   "♏️": {
     "emoji": "♏️",
@@ -517,7 +637,10 @@
     ],
     "description": "SCORPIUS",
     "name": "scorpius",
-    "css": "scorpius"
+    "css": "scorpius",
+    "variations": [
+      "♏"
+    ]
   },
   "♐️": {
     "emoji": "♐️",
@@ -528,7 +651,10 @@
     ],
     "description": "SAGITTARIUS",
     "name": "sagittarius",
-    "css": "sagittarius"
+    "css": "sagittarius",
+    "variations": [
+      "♐"
+    ]
   },
   "♑️": {
     "emoji": "♑️",
@@ -539,7 +665,10 @@
     ],
     "description": "CAPRICORN",
     "name": "capricorn",
-    "css": "capricorn"
+    "css": "capricorn",
+    "variations": [
+      "♑"
+    ]
   },
   "♒️": {
     "emoji": "♒️",
@@ -550,7 +679,10 @@
     ],
     "description": "AQUARIUS",
     "name": "aquarius",
-    "css": "aquarius"
+    "css": "aquarius",
+    "variations": [
+      "♒"
+    ]
   },
   "♓️": {
     "emoji": "♓️",
@@ -561,7 +693,10 @@
     ],
     "description": "PISCES",
     "name": "pisces",
-    "css": "pisces"
+    "css": "pisces",
+    "variations": [
+      "♓"
+    ]
   },
   "♠️": {
     "emoji": "♠️",
@@ -572,7 +707,10 @@
     ],
     "description": "BLACK SPADE SUIT",
     "name": "spades",
-    "css": "spades"
+    "css": "spades",
+    "variations": [
+      "♠"
+    ]
   },
   "♣️": {
     "emoji": "♣️",
@@ -583,7 +721,10 @@
     ],
     "description": "BLACK CLUB SUIT",
     "name": "clubs",
-    "css": "clubs"
+    "css": "clubs",
+    "variations": [
+      "♣"
+    ]
   },
   "♥️": {
     "emoji": "♥️",
@@ -594,7 +735,10 @@
     ],
     "description": "BLACK HEART SUIT",
     "name": "hearts",
-    "css": "hearts"
+    "css": "hearts",
+    "variations": [
+      "♥"
+    ]
   },
   "♦️": {
     "emoji": "♦️",
@@ -605,7 +749,10 @@
     ],
     "description": "BLACK DIAMOND SUIT",
     "name": "diamonds",
-    "css": "diamonds"
+    "css": "diamonds",
+    "variations": [
+      "♦"
+    ]
   },
   "♨️": {
     "emoji": "♨️",
@@ -616,7 +763,10 @@
     ],
     "description": "HOT SPRINGS",
     "name": "hotsprings",
-    "css": "hotsprings"
+    "css": "hotsprings",
+    "variations": [
+      "♨"
+    ]
   },
   "♻️": {
     "emoji": "♻️",
@@ -627,7 +777,10 @@
     ],
     "description": "BLACK UNIVERSAL RECYCLING SYMBOL",
     "name": "recycle",
-    "css": "recycle"
+    "css": "recycle",
+    "variations": [
+      "♻"
+    ]
   },
   "♿️": {
     "emoji": "♿️",
@@ -638,7 +791,10 @@
     ],
     "description": "WHEELCHAIR SYMBOL",
     "name": "wheelchair",
-    "css": "wheelchair"
+    "css": "wheelchair",
+    "variations": [
+      "♿"
+    ]
   },
   "⚓️": {
     "emoji": "⚓️",
@@ -649,7 +805,10 @@
     ],
     "description": "ANCHOR",
     "name": "anchor",
-    "css": "anchor"
+    "css": "anchor",
+    "variations": [
+      "⚓"
+    ]
   },
   "⚠️": {
     "emoji": "⚠️",
@@ -660,7 +819,10 @@
     ],
     "description": "WARNING SIGN",
     "name": "warning",
-    "css": "warning"
+    "css": "warning",
+    "variations": [
+      "⚠"
+    ]
   },
   "⚡️": {
     "emoji": "⚡️",
@@ -671,7 +833,10 @@
     ],
     "description": "HIGH VOLTAGE SIGN",
     "name": "zap",
-    "css": "zap"
+    "css": "zap",
+    "variations": [
+      "⚡"
+    ]
   },
   "⚪️": {
     "emoji": "⚪️",
@@ -682,7 +847,10 @@
     ],
     "description": "MEDIUM WHITE CIRCLE",
     "name": "white_circle",
-    "css": "white_circle"
+    "css": "white_circle",
+    "variations": [
+      "⚪"
+    ]
   },
   "⚫️": {
     "emoji": "⚫️",
@@ -693,7 +861,10 @@
     ],
     "description": "MEDIUM BLACK CIRCLE",
     "name": "black_circle",
-    "css": "black_circle"
+    "css": "black_circle",
+    "variations": [
+      "⚫"
+    ]
   },
   "⚽️": {
     "emoji": "⚽️",
@@ -704,7 +875,10 @@
     ],
     "description": "SOCCER BALL",
     "name": "soccer",
-    "css": "soccer"
+    "css": "soccer",
+    "variations": [
+      "⚽"
+    ]
   },
   "⚾️": {
     "emoji": "⚾️",
@@ -715,7 +889,10 @@
     ],
     "description": "BASEBALL",
     "name": "baseball",
-    "css": "baseball"
+    "css": "baseball",
+    "variations": [
+      "⚾"
+    ]
   },
   "⛄️": {
     "emoji": "⛄️",
@@ -726,7 +903,10 @@
     ],
     "description": "SNOWMAN WITHOUT SNOW",
     "name": "snowman",
-    "css": "snowman"
+    "css": "snowman",
+    "variations": [
+      "⛄"
+    ]
   },
   "⛅️": {
     "emoji": "⛅️",
@@ -737,7 +917,10 @@
     ],
     "description": "SUN BEHIND CLOUD",
     "name": "partly_sunny",
-    "css": "partly_sunny"
+    "css": "partly_sunny",
+    "variations": [
+      "⛅"
+    ]
   },
   "⛎": {
     "emoji": "⛎",
@@ -760,7 +943,10 @@
     ],
     "description": "NO ENTRY",
     "name": "no_entry",
-    "css": "no_entry"
+    "css": "no_entry",
+    "variations": [
+      "⛔"
+    ]
   },
   "⛪️": {
     "emoji": "⛪️",
@@ -771,7 +957,10 @@
     ],
     "description": "CHURCH",
     "name": "church",
-    "css": "church"
+    "css": "church",
+    "variations": [
+      "⛪"
+    ]
   },
   "⛲️": {
     "emoji": "⛲️",
@@ -782,7 +971,10 @@
     ],
     "description": "FOUNTAIN",
     "name": "fountain",
-    "css": "fountain"
+    "css": "fountain",
+    "variations": [
+      "⛲"
+    ]
   },
   "⛳️": {
     "emoji": "⛳️",
@@ -793,7 +985,10 @@
     ],
     "description": "FLAG IN HOLE",
     "name": "golf",
-    "css": "golf"
+    "css": "golf",
+    "variations": [
+      "⛳"
+    ]
   },
   "⛵️": {
     "emoji": "⛵️",
@@ -804,7 +999,10 @@
     ],
     "description": "SAILBOAT",
     "name": "boat",
-    "css": "boat"
+    "css": "boat",
+    "variations": [
+      "⛵"
+    ]
   },
   "⛺️": {
     "emoji": "⛺️",
@@ -815,7 +1013,10 @@
     ],
     "description": "TENT",
     "name": "tent",
-    "css": "tent"
+    "css": "tent",
+    "variations": [
+      "⛺"
+    ]
   },
   "⛽️": {
     "emoji": "⛽️",
@@ -826,7 +1027,10 @@
     ],
     "description": "FUEL PUMP",
     "name": "fuelpump",
-    "css": "fuelpump"
+    "css": "fuelpump",
+    "variations": [
+      "⛽"
+    ]
   },
   "✂️": {
     "emoji": "✂️",
@@ -837,7 +1041,10 @@
     ],
     "description": "BLACK SCISSORS",
     "name": "scissors",
-    "css": "scissors"
+    "css": "scissors",
+    "variations": [
+      "✂"
+    ]
   },
   "✅": {
     "emoji": "✅",
@@ -860,7 +1067,10 @@
     ],
     "description": "AIRPLANE",
     "name": "airplane",
-    "css": "airplane"
+    "css": "airplane",
+    "variations": [
+      "✈"
+    ]
   },
   "✉️": {
     "emoji": "✉️",
@@ -871,7 +1081,10 @@
     ],
     "description": "ENVELOPE",
     "name": "email",
-    "css": "email"
+    "css": "email",
+    "variations": [
+      "✉"
+    ]
   },
   "✊": {
     "emoji": "✊",
@@ -906,7 +1119,10 @@
     ],
     "description": "VICTORY HAND",
     "name": "v",
-    "css": "v"
+    "css": "v",
+    "variations": [
+      "✌"
+    ]
   },
   "✏️": {
     "emoji": "✏️",
@@ -917,7 +1133,10 @@
     ],
     "description": "PENCIL",
     "name": "pencil2",
-    "css": "pencil2"
+    "css": "pencil2",
+    "variations": [
+      "✏"
+    ]
   },
   "✒️": {
     "emoji": "✒️",
@@ -928,7 +1147,10 @@
     ],
     "description": "BLACK NIB",
     "name": "black_nib",
-    "css": "black_nib"
+    "css": "black_nib",
+    "variations": [
+      "✒"
+    ]
   },
   "✔️": {
     "emoji": "✔️",
@@ -939,7 +1161,10 @@
     ],
     "description": "HEAVY CHECK MARK",
     "name": "heavy_check_mark",
-    "css": "heavy_check_mark"
+    "css": "heavy_check_mark",
+    "variations": [
+      "✔"
+    ]
   },
   "✖️": {
     "emoji": "✖️",
@@ -950,7 +1175,10 @@
     ],
     "description": "HEAVY MULTIPLICATION X",
     "name": "heavy_multiplication_x",
-    "css": "heavy_multiplication_x"
+    "css": "heavy_multiplication_x",
+    "variations": [
+      "✖"
+    ]
   },
   "✨": {
     "emoji": "✨",
@@ -973,7 +1201,10 @@
     ],
     "description": "EIGHT SPOKED ASTERISK",
     "name": "eight_spoked_asterisk",
-    "css": "eight_spoked_asterisk"
+    "css": "eight_spoked_asterisk",
+    "variations": [
+      "✳"
+    ]
   },
   "✴️": {
     "emoji": "✴️",
@@ -984,7 +1215,10 @@
     ],
     "description": "EIGHT POINTED BLACK STAR",
     "name": "eight_pointed_black_star",
-    "css": "eight_pointed_black_star"
+    "css": "eight_pointed_black_star",
+    "variations": [
+      "✴"
+    ]
   },
   "❄️": {
     "emoji": "❄️",
@@ -995,7 +1229,10 @@
     ],
     "description": "SNOWFLAKE",
     "name": "snowflake",
-    "css": "snowflake"
+    "css": "snowflake",
+    "variations": [
+      "❄"
+    ]
   },
   "❇️": {
     "emoji": "❇️",
@@ -1006,7 +1243,10 @@
     ],
     "description": "SPARKLE",
     "name": "sparkle",
-    "css": "sparkle"
+    "css": "sparkle",
+    "variations": [
+      "❇"
+    ]
   },
   "❌": {
     "emoji": "❌",
@@ -1077,7 +1317,10 @@
     ],
     "description": "HEAVY EXCLAMATION MARK SYMBOL",
     "name": "exclamation",
-    "css": "exclamation"
+    "css": "exclamation",
+    "variations": [
+      "❗"
+    ]
   },
   "❤️": {
     "emoji": "❤️",
@@ -1088,7 +1331,10 @@
     ],
     "description": "HEAVY BLACK HEART",
     "name": "heart",
-    "css": "heart"
+    "css": "heart",
+    "variations": [
+      "❤"
+    ]
   },
   "➕": {
     "emoji": "➕",
@@ -1135,7 +1381,10 @@
     ],
     "description": "BLACK RIGHTWARDS ARROW",
     "name": "arrow_right",
-    "css": "arrow_right"
+    "css": "arrow_right",
+    "variations": [
+      "➡"
+    ]
   },
   "➰": {
     "emoji": "➰",
@@ -1170,7 +1419,10 @@
     ],
     "description": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS",
     "name": "arrow_heading_up",
-    "css": "arrow_heading_up"
+    "css": "arrow_heading_up",
+    "variations": [
+      "⤴"
+    ]
   },
   "⤵️": {
     "emoji": "⤵️",
@@ -1181,7 +1433,10 @@
     ],
     "description": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS",
     "name": "arrow_heading_down",
-    "css": "arrow_heading_down"
+    "css": "arrow_heading_down",
+    "variations": [
+      "⤵"
+    ]
   },
   "⬅️": {
     "emoji": "⬅️",
@@ -1192,7 +1447,10 @@
     ],
     "description": "LEFTWARDS BLACK ARROW",
     "name": "arrow_left",
-    "css": "arrow_left"
+    "css": "arrow_left",
+    "variations": [
+      "⬅"
+    ]
   },
   "⬆️": {
     "emoji": "⬆️",
@@ -1203,7 +1461,10 @@
     ],
     "description": "UPWARDS BLACK ARROW",
     "name": "arrow_up",
-    "css": "arrow_up"
+    "css": "arrow_up",
+    "variations": [
+      "⬆"
+    ]
   },
   "⬇️": {
     "emoji": "⬇️",
@@ -1214,7 +1475,10 @@
     ],
     "description": "DOWNWARDS BLACK ARROW",
     "name": "arrow_down",
-    "css": "arrow_down"
+    "css": "arrow_down",
+    "variations": [
+      "⬇"
+    ]
   },
   "⬛️": {
     "emoji": "⬛️",
@@ -1225,7 +1489,10 @@
     ],
     "description": "BLACK LARGE SQUARE",
     "name": "black_large_square",
-    "css": "black_large_square"
+    "css": "black_large_square",
+    "variations": [
+      "⬛"
+    ]
   },
   "⬜️": {
     "emoji": "⬜️",
@@ -1236,7 +1503,10 @@
     ],
     "description": "WHITE LARGE SQUARE",
     "name": "white_large_square",
-    "css": "white_large_square"
+    "css": "white_large_square",
+    "variations": [
+      "⬜"
+    ]
   },
   "⭐️": {
     "emoji": "⭐️",
@@ -1247,7 +1517,10 @@
     ],
     "description": "WHITE MEDIUM STAR",
     "name": "star",
-    "css": "star"
+    "css": "star",
+    "variations": [
+      "⭐"
+    ]
   },
   "⭕️": {
     "emoji": "⭕️",
@@ -1258,7 +1531,10 @@
     ],
     "description": "HEAVY LARGE CIRCLE",
     "name": "o",
-    "css": "o"
+    "css": "o",
+    "variations": [
+      "⭕"
+    ]
   },
   "〰️": {
     "emoji": "〰️",
@@ -1269,7 +1545,10 @@
     ],
     "description": "WAVY DASH",
     "name": "wavy_dash",
-    "css": "wavy_dash"
+    "css": "wavy_dash",
+    "variations": [
+      "〰"
+    ]
   },
   "〽️": {
     "emoji": "〽️",
@@ -1280,7 +1559,10 @@
     ],
     "description": "PART ALTERNATION MARK",
     "name": "part_alternation_mark",
-    "css": "part_alternation_mark"
+    "css": "part_alternation_mark",
+    "variations": [
+      "〽"
+    ]
   },
   "㊗️": {
     "emoji": "㊗️",
@@ -1291,7 +1573,10 @@
     ],
     "description": "CIRCLED IDEOGRAPH CONGRATULATION",
     "name": "congratulations",
-    "css": "congratulations"
+    "css": "congratulations",
+    "variations": [
+      "㊗"
+    ]
   },
   "㊙️": {
     "emoji": "㊙️",
@@ -1302,7 +1587,10 @@
     ],
     "description": "CIRCLED IDEOGRAPH SECRET",
     "name": "secret",
-    "css": "secret"
+    "css": "secret",
+    "variations": [
+      "㊙"
+    ]
   },
   "🀄️": {
     "emoji": "🀄️",
@@ -1313,7 +1601,10 @@
     ],
     "description": "MAHJONG TILE RED DRAGON",
     "name": "mahjong",
-    "css": "mahjong"
+    "css": "mahjong",
+    "variations": [
+      "🀄"
+    ]
   },
   "🃏": {
     "emoji": "🃏",
@@ -1336,7 +1627,10 @@
     ],
     "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER A",
     "name": "a",
-    "css": "a"
+    "css": "a",
+    "variations": [
+      "🅰"
+    ]
   },
   "🅱️": {
     "emoji": "🅱️",
@@ -1347,7 +1641,10 @@
     ],
     "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER B",
     "name": "b",
-    "css": "b"
+    "css": "b",
+    "variations": [
+      "🅱"
+    ]
   },
   "🅾️": {
     "emoji": "🅾️",
@@ -1358,7 +1655,10 @@
     ],
     "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER O",
     "name": "o2",
-    "css": "o2"
+    "css": "o2",
+    "variations": [
+      "🅾"
+    ]
   },
   "🅿️": {
     "emoji": "🅿️",
@@ -1369,7 +1669,10 @@
     ],
     "description": "NEGATIVE SQUARED LATIN CAPITAL LETTER P",
     "name": "parking",
-    "css": "parking"
+    "css": "parking",
+    "variations": [
+      "🅿"
+    ]
   },
   "🆎": {
     "emoji": "🆎",
@@ -1524,7 +1827,10 @@
     ],
     "description": "SQUARED KATAKANA SA",
     "name": "sa",
-    "css": "sa"
+    "css": "sa",
+    "variations": [
+      "🈂"
+    ]
   },
   "🈚️": {
     "emoji": "🈚️",
@@ -1535,7 +1841,10 @@
     ],
     "description": "SQUARED CJK UNIFIED IDEOGRAPH-7121",
     "name": "u7121",
-    "css": "u7121"
+    "css": "u7121",
+    "variations": [
+      "🈚"
+    ]
   },
   "🈯️": {
     "emoji": "🈯️",
@@ -1546,7 +1855,10 @@
     ],
     "description": "SQUARED CJK UNIFIED IDEOGRAPH-6307",
     "name": "u6307",
-    "css": "u6307"
+    "css": "u6307",
+    "variations": [
+      "🈯"
+    ]
   },
   "🈲": {
     "emoji": "🈲",
@@ -1617,7 +1929,10 @@
     ],
     "description": "SQUARED CJK UNIFIED IDEOGRAPH-6708",
     "name": "u6708",
-    "css": "u6708"
+    "css": "u6708",
+    "variations": [
+      "🈷"
+    ]
   },
   "🈸": {
     "emoji": "🈸",
@@ -9823,7 +10138,10 @@
     ],
     "description": "HASH KEY",
     "name": "hash",
-    "css": "hash"
+    "css": "hash",
+    "variations": [
+      "#⃣"
+    ]
   },
   "0️⃣": {
     "emoji": "0️⃣",
@@ -9834,7 +10152,10 @@
     ],
     "description": "KEYCAP 0",
     "name": "zero",
-    "css": "zero"
+    "css": "zero",
+    "variations": [
+      "0⃣"
+    ]
   },
   "1️⃣": {
     "emoji": "1️⃣",
@@ -9845,7 +10166,10 @@
     ],
     "description": "KEYCAP 1",
     "name": "one",
-    "css": "one"
+    "css": "one",
+    "variations": [
+      "1⃣"
+    ]
   },
   "2️⃣": {
     "emoji": "2️⃣",
@@ -9856,7 +10180,10 @@
     ],
     "description": "KEYCAP 2",
     "name": "two",
-    "css": "two"
+    "css": "two",
+    "variations": [
+      "2⃣"
+    ]
   },
   "3️⃣": {
     "emoji": "3️⃣",
@@ -9867,7 +10194,10 @@
     ],
     "description": "KEYCAP 3",
     "name": "three",
-    "css": "three"
+    "css": "three",
+    "variations": [
+      "3⃣"
+    ]
   },
   "4️⃣": {
     "emoji": "4️⃣",
@@ -9878,7 +10208,10 @@
     ],
     "description": "KEYCAP 4",
     "name": "four",
-    "css": "four"
+    "css": "four",
+    "variations": [
+      "4⃣"
+    ]
   },
   "5️⃣": {
     "emoji": "5️⃣",
@@ -9889,7 +10222,10 @@
     ],
     "description": "KEYCAP 5",
     "name": "five",
-    "css": "five"
+    "css": "five",
+    "variations": [
+      "5⃣"
+    ]
   },
   "6️⃣": {
     "emoji": "6️⃣",
@@ -9900,7 +10236,10 @@
     ],
     "description": "KEYCAP 6",
     "name": "six",
-    "css": "six"
+    "css": "six",
+    "variations": [
+      "6⃣"
+    ]
   },
   "7️⃣": {
     "emoji": "7️⃣",
@@ -9911,7 +10250,10 @@
     ],
     "description": "KEYCAP 7",
     "name": "seven",
-    "css": "seven"
+    "css": "seven",
+    "variations": [
+      "7⃣"
+    ]
   },
   "8️⃣": {
     "emoji": "8️⃣",
@@ -9922,7 +10264,10 @@
     ],
     "description": "KEYCAP 8",
     "name": "eight",
-    "css": "eight"
+    "css": "eight",
+    "variations": [
+      "8⃣"
+    ]
   },
   "9️⃣": {
     "emoji": "9️⃣",
@@ -9933,7 +10278,10 @@
     ],
     "description": "KEYCAP 9",
     "name": "nine",
-    "css": "nine"
+    "css": "nine",
+    "variations": [
+      "9⃣"
+    ]
   },
   "🇦🇪": {
     "emoji": "🇦🇪",

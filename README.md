@@ -54,6 +54,7 @@ Yields:
 - **name** : short name
 - **css** : the css class suffix for the stylesheets, not always the same as the name
 - **category** : the name of the category we use in our picker
+- **variations** : if the emoji has variations, they will be included in this array as utf-8
 
 ## Assets
 

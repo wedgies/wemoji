@@ -94,7 +94,16 @@ function generateData( emojis, categories ) {
   var json = {}
   for ( i in emojis ) {
     var emoji = emojis[i]
-    var unicode = emoji.variations.length > 0 ? emoji.variations[0] : emoji.unified
+
+    // Invert variants, because they generally look nicer
+    var unicode = emoji.unified,
+        variations = null
+    if ( emoji.variations.length > 0 ) {
+      unicode = emoji.variations[0]
+      variations = emoji.variations.slice(1)
+      variations.push( emoji.unified )
+    }
+
     var utf8 = toUTF8( unicode )
     json[ utf8 ] = {
       emoji: utf8,
@@ -103,6 +112,11 @@ function generateData( emojis, categories ) {
       name: emoji.short_name,
       css: cssIfyName( emoji.short_name ),
       category: categories[ unicode ]
+    }
+    if (variations) {
+      json[ utf8 ].variations = variations.map(function(u) {
+        return toUTF8(u)
+      })
     }
   }
   jf.writeFile('lib/wemoji.json', json, function(err) {
