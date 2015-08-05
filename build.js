@@ -2,10 +2,12 @@ require('string.fromcodepoint')
 var jf = require('jsonfile'),
     util = require('util'),
     csv = require('csv'),
-    fs = require('fs')
+    fs = require('fs'),
+    path = require('path'),
+    config = require('./config.json')
 
 
-var CSS_FORMAT = ".emoji-%s {background-size:100% !important; background-image: url('data:%s;base64,%s');}"
+var CSS_FORMAT = ".emoji-%s {background-size:100% !important; background-image: url('%s');}"
 
 var platformAvailability = {}
 
@@ -21,7 +23,7 @@ jf.readFile('emoji-data/emoji.json', function(err, emojis) {
 
 function generateAssetsFor(emojis, categories, platform, platformCode) {
 
-  var json = [], css = [], html = []
+  var json = [], css = [], externalCss = [], html = []
 
   html.push('<html><head>')
   html.push('<title>wemoji-' + platformCode + ' preview</title>')
@@ -54,8 +56,14 @@ function generateAssetsFor(emojis, categories, platform, platformCode) {
 
       // css data
       var base64 = getBase64( './emoji-data/' + imagePath )
-      var cssStr = util.format(CSS_FORMAT, jsonData.shortcode, 'image/png', base64)
+      var dataURI = util.format('data:%s;base64,%s', 'image/png', base64)
+      var cssStr = util.format(CSS_FORMAT, jsonData.shortcode, dataURI)
       css.push(cssStr)
+
+      // external css data
+      var filename = config.imagePath[ platformCode ] + path.basename( imagePath )
+      var externalCssStr = util.format(CSS_FORMAT, jsonData.shortcode, filename)
+      externalCss.push(externalCssStr)
 
       // html preview
       html.push('<tr>')
@@ -74,6 +82,12 @@ function generateAssetsFor(emojis, categories, platform, platformCode) {
   fs.writeFile(cssFilename, css.join("\n"), function(err) {
     if (err) return console.log(err);
     console.log("Wrote " + cssFilename)
+  })
+
+  var externalCssFilename = 'dist/wemoji-ext-' + platformCode + '.css'
+  fs.writeFile(externalCssFilename, externalCss.join("\n"), function(err) {
+    if (err) return console.log(err);
+    console.log("Wrote " + externalCssFilename)
   })
 
   var jsonFilename = 'dist/wemoji-' + platformCode + '.json'

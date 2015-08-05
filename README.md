@@ -70,6 +70,15 @@ If you don't like bower, you can just grab them from our [git repository](https:
 
 Just include the ```emoji.css``` and one of ```wemoji-tw.css```, ```wemoji-g.css```, ```wemoji-a.css```. Each corresponds to *twitter*, *google*, and *apple* depending on your choice. There is also an HTML file so you can easily preview each set.
 
+There is now also a version of the CSS that uses external assets from the [emoji-data](https://github.com/iamcal/emoji-data) project. The files are called ```wemoji-ext-tw.css```, ```wemoji-ext-g.css```, ```wemoji-ext-a.css``` respectively. You can define the image paths that the CSS points
+to in `config.json` per platform. We don't copy the images into dist for you though, so you'll need to pull them out of emoji-data yourself. For example, with the default
+`config.json` settings, and if you just want to use the twitter emoji, try something like this:
+
+```
+mkdir -p dist/img/emoji-tw
+cp -R emoji-data/img-twitter-64/* dist/img/emoji-tw
+```
+
 The markup that we use with this css is:
 
 ```html
