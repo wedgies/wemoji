@@ -1,7 +1,7 @@
 {
   "imagePath": {
-    "tw": "/img/emoji-tw/",
-    "a": "/img/emoji-a/",
-    "g": "/img/emoji-g/"
+    "tw": "../img/emoji-tw/",
+    "a": "../img/emoji-a/",
+    "g": "../img/emoji-g/"
   }
 }
