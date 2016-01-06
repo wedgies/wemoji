@@ -34,10 +34,10 @@ function generateAssetsFor(emojis, categories, platform, platformCode) {
   for ( i in emojis ) {
 
     var emoji = emojis[i],
-      imagePath = emoji[platform + '_img_path']
+      hasImage = emoji['has_img_' + platform],
+      imagePath = 'img-' + platform + '-64/' + emoji['image'];
 
-    if ( emoji.name && imagePath ) {
-
+    if ( emoji.name && hasImage ) {
       var unicode = emoji.variations.length > 0 ? emoji.variations[0] : emoji.unified
 
       platformAvailability[ unicode ] = platformAvailability[ unicode ] || []
@@ -150,7 +150,7 @@ function getBase64(filename) {
   try {
     var bitmap = fs.readFileSync(filename);
   } catch (e) {
-    return false;
+    return null;
   }
   var string = new Buffer(bitmap).toString('base64');
   return string;
