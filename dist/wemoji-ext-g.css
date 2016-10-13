@@ -15,6 +15,7 @@
 .emoji-watch {background-size:100% !important; background-image: url('../img/emoji-g/231a.png');}
 .emoji-hourglass {background-size:100% !important; background-image: url('../img/emoji-g/231b.png');}
 .emoji-keyboard {background-size:100% !important; background-image: url('../img/emoji-g/2328.png');}
+.emoji-eject {background-size:100% !important; background-image: url('../img/emoji-g/23cf.png');}
 .emoji-fast_forward {background-size:100% !important; background-image: url('../img/emoji-g/23e9.png');}
 .emoji-rewind {background-size:100% !important; background-image: url('../img/emoji-g/23ea.png');}
 .emoji-arrow_double_up {background-size:100% !important; background-image: url('../img/emoji-g/23eb.png');}
@@ -41,11 +42,11 @@
 .emoji-sunny {background-size:100% !important; background-image: url('../img/emoji-g/2600.png');}
 .emoji-cloud {background-size:100% !important; background-image: url('../img/emoji-g/2601.png');}
 .emoji-umbrella {background-size:100% !important; background-image: url('../img/emoji-g/2602.png');}
-.emoji-showman {background-size:100% !important; background-image: url('../img/emoji-g/2603.png');}
+.emoji-snowman {background-size:100% !important; background-image: url('../img/emoji-g/2603.png');}
 .emoji-comet {background-size:100% !important; background-image: url('../img/emoji-g/2604.png');}
 .emoji-phone {background-size:100% !important; background-image: url('../img/emoji-g/260e.png');}
 .emoji-ballot_box_with_check {background-size:100% !important; background-image: url('../img/emoji-g/2611.png');}
-.emoji-umbrella {background-size:100% !important; background-image: url('../img/emoji-g/2614.png');}
+.emoji-umbrella_with_rain_drops {background-size:100% !important; background-image: url('../img/emoji-g/2614.png');}
 .emoji-coffee {background-size:100% !important; background-image: url('../img/emoji-g/2615.png');}
 .emoji-shamrock {background-size:100% !important; background-image: url('../img/emoji-g/2618.png');}
 .emoji-point_up {background-size:100% !important; background-image: url('../img/emoji-g/261d.png');}
@@ -94,7 +95,7 @@
 .emoji-funeral_urn {background-size:100% !important; background-image: url('../img/emoji-g/26b1.png');}
 .emoji-soccer {background-size:100% !important; background-image: url('../img/emoji-g/26bd.png');}
 .emoji-baseball {background-size:100% !important; background-image: url('../img/emoji-g/26be.png');}
-.emoji-snowman {background-size:100% !important; background-image: url('../img/emoji-g/26c4.png');}
+.emoji-snowman_without_snow {background-size:100% !important; background-image: url('../img/emoji-g/26c4.png');}
 .emoji-partly_sunny {background-size:100% !important; background-image: url('../img/emoji-g/26c5.png');}
 .emoji-thunder_cloud_and_rain {background-size:100% !important; background-image: url('../img/emoji-g/26c8.png');}
 .emoji-ophiuchus {background-size:100% !important; background-image: url('../img/emoji-g/26ce.png');}
@@ -659,7 +660,7 @@
 .emoji-telephone_receiver {background-size:100% !important; background-image: url('../img/emoji-g/1f4de.png');}
 .emoji-pager {background-size:100% !important; background-image: url('../img/emoji-g/1f4df.png');}
 .emoji-fax {background-size:100% !important; background-image: url('../img/emoji-g/1f4e0.png');}
-.emoji-satellite {background-size:100% !important; background-image: url('../img/emoji-g/1f4e1.png');}
+.emoji-satellite_antenna {background-size:100% !important; background-image: url('../img/emoji-g/1f4e1.png');}
 .emoji-loudspeaker {background-size:100% !important; background-image: url('../img/emoji-g/1f4e2.png');}
 .emoji-mega {background-size:100% !important; background-image: url('../img/emoji-g/1f4e3.png');}
 .emoji-outbox_tray {background-size:100% !important; background-image: url('../img/emoji-g/1f4e4.png');}
